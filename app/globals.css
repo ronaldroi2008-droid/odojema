@@ -1,45 +1,51 @@
-import type { Metadata } from "next";
-import {
-  Geist,
-  Geist_Mono,
-  Source_Serif_4,
-} from "next/font/google";
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
-import "./globals.css";
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-serif);
+}
 
-const sourceSerif = Source_Serif_4({
-  variable: "--font-serif",
-  subsets: ["latin"],
-  weight: ["600", "700"],
-});
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
 
-export const metadata: Metadata = {
-  title: "Odojema | Career & Income Tools",
-  description:
-    "Free salary calculators, raise calculators, freelance rate calculators, and career tools.",
-};
+html {
+  scroll-behavior: smooth;
+}
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} ${sourceSerif.variable}`}
-    >
-      <body>{children}</body>
-    </html>
-  );
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans);
+}
+
+.prose {
+  max-width: 75ch;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-family: var(--font-serif);
+}
+
+.prose h2 {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #dedad0;
 }
