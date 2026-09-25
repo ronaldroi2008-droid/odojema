@@ -5,12 +5,18 @@ import { useState } from "react";
 export default function SalaryCalculatorForm() {
   const [monthlySalary, setMonthlySalary] = useState("");
   const [annualSalary, setAnnualSalary] = useState<number | null>(null);
+  const [error, setError] = useState("");
 
   const calculateSalary = () => {
     const monthly = Number(monthlySalary);
 
-    if (!monthly) return;
+    if (!monthlySalary || monthly <= 0) {
+      setError("Please enter a valid positive number.");
+      setAnnualSalary(null);
+      return;
+    }
 
+    setError("");
     setAnnualSalary(monthly * 12);
   };
 
@@ -24,11 +30,19 @@ export default function SalaryCalculatorForm() {
         <input
           id="monthlySalary"
           type="number"
+          min="0"
           value={monthlySalary}
           onChange={(e) => setMonthlySalary(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === "Enter") calculateSalary();
+          }}
           placeholder="3000"
           className="w-full border rounded-lg px-4 py-3"
         />
+
+        {error && (
+          <p className="mt-2 text-red-600 text-sm">{error}</p>
+        )}
 
         <button
           onClick={calculateSalary}
