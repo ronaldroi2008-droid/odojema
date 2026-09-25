@@ -13,6 +13,8 @@ export const metadata = {
 export default function BlogIndex() {
   const posts = getAllPosts();
 
+console.log(posts);  
+
   return (
     <main className="max-w-3xl mx-auto px-6 py-20">
       <Link href="/" className="text-blue-600 hover:underline">
