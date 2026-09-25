@@ -1,6 +1,9 @@
 import Link from "next/link";
+import { getAllPosts } from "@/lib/posts";
 
 export default function Home() {
+  const posts = getAllPosts().slice(0, 3);
+
   const tools = [
     {
       title: "Salary Calculator",
@@ -56,6 +59,47 @@ export default function Home() {
 
               <p className="mt-3 text-gray-600">
                 {tool.description}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="max-w-6xl mx-auto px-6 py-16 border-t">
+        <div className="flex items-center justify-between">
+          <h2 className="text-4xl font-bold">
+            Latest Articles
+          </h2>
+
+          <Link
+            href="/blog"
+            className="text-green-700 hover:underline"
+          >
+            View All →
+          </Link>
+        </div>
+
+        <p className="mt-4 text-gray-600">
+          Practical guides on salaries, raises, freelance rates, and career growth.
+        </p>
+
+        <div className="grid md:grid-cols-3 gap-6 mt-10">
+          {posts.map((post) => (
+            <Link
+              key={post.slug}
+              href={`/blog/${post.slug}`}
+              className="border rounded-lg p-6 hover:shadow-lg transition"
+            >
+              <h3 className="text-xl font-semibold">
+                {post.title}
+              </h3>
+
+              <p className="mt-2 text-sm text-gray-500">
+                {post.date}
+              </p>
+
+              <p className="mt-3 text-gray-600">
+                {post.excerpt}
               </p>
             </Link>
           ))}
