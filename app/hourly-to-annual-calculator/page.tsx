@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 
 export default function HourlyToAnnualCalculator() {
   const [hourlyRate, setHourlyRate] = useState("");
@@ -23,7 +24,14 @@ export default function HourlyToAnnualCalculator() {
 
   return (
     <main className="max-w-3xl mx-auto px-6 py-20">
-      <h1 className="text-4xl font-bold">
+      <Link
+        href="/"
+        className="text-blue-600 hover:underline"
+      >
+        ← Back to Home
+      </Link>
+
+      <h1 className="text-4xl font-bold mt-6">
         Hourly to Annual Salary Calculator
       </h1>
 
@@ -179,6 +187,36 @@ export default function HourlyToAnnualCalculator() {
             52 weeks, or 2,080 hours per year.
           </p>
         </div>
+      </section>
+
+      <section className="mt-12">
+        <h2 className="text-2xl font-bold">
+          Related Tools
+        </h2>
+
+        <ul className="mt-4 list-disc pl-6">
+          <li>
+            <a href="/salary-calculator">
+              Salary Calculator
+            </a>
+          </li>
+
+          <li>
+            <a href="/raise-calculator">
+              Raise Calculator
+            </a>
+          </li>
+
+          <li>
+            <a href="/freelance-rate-calculator">
+              Freelance Rate Calculator
+            </a>
+          </li>
+        </ul>
+      </section>
+
+      <section className="mt-10 text-sm text-gray-500">
+        Last updated: September 2026
       </section>
     </main>
   );
