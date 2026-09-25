@@ -4,14 +4,19 @@ import { useState } from "react";
 
 export default function HourlyToAnnualCalculator() {
   const [hourlyRate, setHourlyRate] = useState("");
+  const [hoursPerWeek, setHoursPerWeek] = useState("40");
+  const [weeksPerYear, setWeeksPerYear] = useState("52");
+
   const [annualSalary, setAnnualSalary] = useState<number | null>(null);
 
   const calculateSalary = () => {
     const hourly = Number(hourlyRate);
+    const hours = Number(hoursPerWeek);
+    const weeks = Number(weeksPerYear);
 
-    if (!hourly) return;
+    if (!hourly || !hours || !weeks) return;
 
-    const annual = hourly * 40 * 52;
+    const annual = hourly * hours * weeks;
 
     setAnnualSalary(annual);
   };
@@ -26,22 +31,50 @@ export default function HourlyToAnnualCalculator() {
         Convert your hourly wage into estimated annual salary.
       </p>
 
-      <div className="mt-10">
-        <label className="block mb-2 font-medium">
-          Hourly Rate ($)
-        </label>
+      <div className="mt-10 space-y-6">
+        <div>
+          <label className="block mb-2 font-medium">
+            Hourly Rate ($)
+          </label>
 
-        <input
-          type="number"
-          value={hourlyRate}
-          onChange={(e) => setHourlyRate(e.target.value)}
-          className="w-full border rounded-lg px-4 py-3"
-          placeholder="Enter hourly rate"
-        />
+          <input
+            type="number"
+            value={hourlyRate}
+            onChange={(e) => setHourlyRate(e.target.value)}
+            className="w-full border rounded-lg px-4 py-3"
+            placeholder="25"
+          />
+        </div>
+
+        <div>
+          <label className="block mb-2 font-medium">
+            Hours Per Week
+          </label>
+
+          <input
+            type="number"
+            value={hoursPerWeek}
+            onChange={(e) => setHoursPerWeek(e.target.value)}
+            className="w-full border rounded-lg px-4 py-3"
+          />
+        </div>
+
+        <div>
+          <label className="block mb-2 font-medium">
+            Weeks Per Year
+          </label>
+
+          <input
+            type="number"
+            value={weeksPerYear}
+            onChange={(e) => setWeeksPerYear(e.target.value)}
+            className="w-full border rounded-lg px-4 py-3"
+          />
+        </div>
 
         <button
           onClick={calculateSalary}
-          className="mt-4 px-6 py-3 rounded-lg bg-black text-white"
+          className="px-6 py-3 rounded-lg bg-black text-white"
         >
           Calculate
         </button>
@@ -65,16 +98,12 @@ export default function HourlyToAnnualCalculator() {
         </h2>
 
         <p className="mt-4">
-          To calculate annual salary, multiply your hourly wage
-          by the number of hours worked per week and then by
-          the number of weeks worked per year.
+          To calculate annual salary, multiply your hourly wage by
+          the number of hours worked per week and the number of
+          weeks worked per year.
         </p>
 
-        <p className="mt-4">
-          Formula:
-        </p>
-
-        <div className="mt-2 p-4 bg-gray-100 rounded-lg">
+        <div className="mt-4 p-4 bg-gray-100 rounded-lg">
           <code>
             Annual Salary = Hourly Rate × Hours Per Week × Weeks Per Year
           </code>
@@ -87,17 +116,18 @@ export default function HourlyToAnnualCalculator() {
         </h2>
 
         <p className="mt-4">
-          If you earn $10 per hour and work 40 hours per week for 52 weeks:
+          If you earn $25 per hour, work 40 hours per week,
+          and work 52 weeks per year:
         </p>
 
         <div className="mt-4 p-4 bg-gray-100 rounded-lg">
           <code>
-            $10 × 40 × 52 = $20,800
+            $25 × 40 × 52 = $52,000
           </code>
         </div>
 
         <p className="mt-4">
-          Your estimated annual salary would be $20,800.
+          Your estimated annual salary would be $52,000.
         </p>
       </section>
 
@@ -112,7 +142,8 @@ export default function HourlyToAnnualCalculator() {
           </h3>
 
           <p className="mt-2">
-            Multiply your hourly rate by the number of hours worked per week and then by the number of weeks worked per year.
+            Multiply your hourly rate by your hours worked per week
+            and then by the number of weeks worked per year.
           </p>
         </div>
 
@@ -122,7 +153,8 @@ export default function HourlyToAnnualCalculator() {
           </h3>
 
           <p className="mt-2">
-            A standard full-time schedule is 40 hours per week for 52 weeks, or 2,080 hours per year.
+            A standard full-time schedule is 40 hours per week for
+            52 weeks, or 2,080 hours per year.
           </p>
         </div>
       </section>
