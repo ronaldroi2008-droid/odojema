@@ -49,3 +49,57 @@ body {
   padding-top: 2rem;
   border-top: 1px solid #dedad0;
 }
+
+.prose {
+  max-width: 75ch;
+  font-size: 18px;
+  line-height: 1.85;
+  color: #2a2e32;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-family: var(--font-serif);
+  color: #1b1f23;
+}
+
+.prose h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid #dedad0;
+}
+
+.prose h3 {
+  margin-top: 2rem;
+}
+
+.prose p {
+  margin: 1.25rem 0;
+}
+
+.prose ul li {
+  margin: 0.5rem 0;
+}
+
+.prose strong {
+  color: #1b1f23;
+}
+
+.prose a {
+  color: #1f6f54;
+  text-decoration: underline;
+}
+
+.prose blockquote {
+  border-left: 4px solid #1f6f54;
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+.prose code {
+  background: #f3f3f3;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}

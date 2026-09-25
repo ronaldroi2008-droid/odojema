@@ -1,213 +1,180 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>When (and How Much) to Ask for a Raise</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --paper:#F7F5F0; --ink:#1B1F23; --ink-soft:#4A5157;
-    --green:#1F6F54; --green-soft:#E7F0EC;
-    --amber:#C98A2E; --amber-soft:#FAF0DE;
-    --line:#DEDAD0;
-    padding-top: env(safe-area-inset-top,0px);
-    padding-bottom: env(safe-area-inset-bottom,0px);
-  }
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      --paper:#15181B; --ink:#EDEBE6; --ink-soft:#A9AFB4;
-      --green:#4FAE8C; --green-soft:#1C2B26;
-      --amber:#E0A54B; --amber-soft:#2A2113;
-      --line:#2A2E32;
-    }
-  }
-  :root[data-theme="dark"]{
-    --paper:#15181B; --ink:#EDEBE6; --ink-soft:#A9AFB4;
-    --green:#4FAE8C; --green-soft:#1C2B26;
-    --amber:#E0A54B; --amber-soft:#2A2113;
-    --line:#2A2E32;
-  }
-  *{box-sizing:border-box;}
-  html{scroll-padding-top:env(safe-area-inset-top,0px);}
-  body{
-    margin:0; background:var(--paper); color:var(--ink);
-    font-family:'Inter',system-ui,sans-serif;
-    font-size:17px; line-height:1.65;
-  }
-  .wrap{max-width:680px; margin:0 auto; padding:64px 24px 96px;}
-  header.masthead{margin-bottom:48px;}
-  .kicker{font-family:'Inter',sans-serif; font-size:14px; color:var(--green); font-weight:600; margin-bottom:14px;}
-  h1{
-    font-family:'Source Serif 4',serif; font-weight:700;
-    font-size:clamp(32px,5vw,46px); line-height:1.12; margin:0 0 18px;
-    letter-spacing:-0.01em;
-  }
-  .excerpt{font-size:19px; color:var(--ink-soft); line-height:1.55; margin:0 0 8px; max-width:60ch;}
-  .meta{font-size:14px; color:var(--ink-soft); margin-top:20px;}
-  h2{
-    font-family:'Source Serif 4',serif; font-weight:600; font-size:28px;
-    margin:56px 0 18px; padding-top:8px; border-top:1px solid var(--line);
-    padding-top:32px;
-  }
-  h3{font-family:'Inter',sans-serif; font-weight:600; font-size:18px; margin:32px 0 10px; color:var(--ink);}
-  p{margin:0 0 18px; max-width:66ch;}
-  ul, ol{margin:0 0 20px; padding-left:22px;}
-  li{margin-bottom:10px; max-width:62ch;}
-  strong{font-weight:600;}
-  a{color:var(--green); text-decoration-color:var(--line); text-underline-offset:3px;}
+---
+title: "When (and How Much) to Ask for a Raise"
+date: "2026-09-26"
+excerpt: "How to know if it's the right time to ask for a raise, how much to realistically ask for, and how to make the case with evidence instead of guesswork."
+---
 
-  .callout{
-    background:var(--green-soft); border-left:3px solid var(--green);
-    padding:20px 24px; border-radius:2px; margin:28px 0;
-  }
-  .callout p:last-child{margin-bottom:0;}
+Asking for a raise is one of the highest-leverage conversations in a career and one of the most avoided.
 
-  /* checklist */
-  .checklist{list-style:none; padding:0; margin:24px 0;}
-  .checklist li{
-    display:flex; gap:14px; align-items:flex-start;
-    padding:18px 0; border-bottom:1px solid var(--line); max-width:none;
-  }
-  .checklist li:first-child{padding-top:0;}
-  .num{
-    font-family:'Source Serif 4',serif; font-weight:600; font-size:20px; color:var(--green);
-    flex:0 0 28px;
-  }
-  .checklist .q{font-weight:600; margin-bottom:4px; display:block;}
-  .checklist .a{color:var(--ink-soft); font-size:15px; margin:0;}
-  .checklist .a ul{margin:8px 0 0; padding-left:18px;}
-  .checklist .a li{padding:0; border:none; margin-bottom:4px; display:list-item; font-size:15px;}
+Many people either wait years too long, hoping a raise will simply be offered, or ask at the wrong time with the wrong number, weakening their case before it even gets a fair hearing.
 
-  table{width:100%; border-collapse:collapse; margin:20px 0 28px; font-size:15px;}
-  th,td{text-align:left; padding:12px 14px; border-bottom:1px solid var(--line);}
-  th{font-family:'Inter',sans-serif; font-weight:600; color:var(--ink-soft); font-size:13px; text-transform:uppercase; letter-spacing:.03em;}
+This guide covers how to tell if it's actually a good time to ask, how to determine a realistic number, and how to build a case that's difficult to ignore.
 
-  /* calc card */
-  .calc{
-    background:var(--amber-soft); border-radius:4px; padding:28px 26px;
-    margin:24px 0 28px;
-  }
-  .calc-row{display:flex; justify-content:space-between; align-items:baseline; padding:10px 0; border-bottom:1px solid rgba(0,0,0,.06);}
-  .calc-row:last-child{border:none; padding-top:16px;}
-  .calc-label{font-size:15px; color:var(--ink-soft);}
-  .calc-value{font-family:'Source Serif 4',serif; font-size:20px; font-weight:600;}
-  .calc-row:last-child .calc-value{font-size:26px; color:var(--amber);}
+## Signs It's a Good Time to Ask
 
-  details{
-    background:transparent; border:1px solid var(--line); border-radius:4px;
-    padding:16px 20px; margin-bottom:12px;
-  }
-  details summary{font-weight:600; cursor:pointer; font-size:16px;}
-  details p{margin:12px 0 0;}
+Timing matters more than most people expect. A well-reasoned raise request made at the wrong moment can still get rejected—not because the request is unfair, but because the context works against it.
 
-  footer{margin-top:64px; padding-top:24px; border-top:1px solid var(--line); font-size:13px; color:var(--ink-soft);}
+### You've Taken on Responsibilities Beyond Your Original Role
 
-  @media (max-width:520px){
-    .wrap{padding:40px 18px 72px;}
-    h2{font-size:24px;}
-    table{font-size:14px;}
-    th,td{padding:10px 8px;}
-  }
-</style>
-</head>
-<body>
-<div class="wrap">
+If your job today looks meaningfully different from the role you were originally hired to do, your compensation should reflect that increased responsibility.
 
-  <header class="masthead">
-    <div class="kicker">Career &amp; Compensation</div>
-    <h1>When (and How Much) to Ask for a Raise</h1>
-    <p class="excerpt">How to know if it's the right time to ask for a raise, how much to realistically ask for, and how to make the case with evidence instead of guesswork.</p>
-    <div class="meta">September 26, 2026</div>
-  </header>
+### You Have Measurable Results to Point To
 
-  <h2 style="margin-top:0;border-top:none;padding-top:0;">Signs it's a good time to ask</h2>
-  <p>Timing matters more than most people expect. A well-reasoned raise request made at the wrong moment can still get rejected — not because the request is unfair, but because the context works against it.</p>
-  <ul>
-    <li><strong>You've taken on responsibilities beyond your original role.</strong> If your job today looks meaningfully different (and bigger) than the job you were hired for, your pay should reflect that.</li>
-    <li><strong>You have measurable results to point to.</strong> Completed projects, revenue impact, efficiency improvements, or positive feedback are far stronger than "I've been here a while."</li>
-    <li><strong>It's been over a year since your last raise.</strong> Outside of promotions, most companies review compensation annually.</li>
-    <li><strong>The company is doing well.</strong> Raises are easier to approve out of a healthy budget.</li>
-    <li><strong>You have a competing offer or clear market data.</strong> Nothing clarifies a compensation conversation faster than evidence of market rates.</li>
-  </ul>
+Completed projects, revenue impact, efficiency improvements, cost savings, or consistently positive feedback are all stronger evidence than simply saying you've been with the company for a long time.
 
-  <h2>Signs it might be the wrong time</h2>
-  <ul>
-    <li><strong>The company just went through layoffs or a hiring freeze.</strong> Budgets are tightest right after cuts.</li>
-    <li><strong>You're new to the role.</strong> Most employers expect at least 6–12 months first.</li>
-    <li><strong>Your recent performance has been inconsistent.</strong> Asks land better after a strong review cycle.</li>
-    <li><strong>There's no scheduled review process or budget context.</strong> Asking blind is riskier than asking informed.</li>
-  </ul>
-  <p>None of these make asking impossible — they mean the conversation may need a different approach, or might be worth delaying a few months.</p>
+### It's Been More Than a Year Since Your Last Raise
 
-  <h2>How much should you ask for?</h2>
-  <p>This is where most raise requests go wrong: asking for too little, or too much with no supporting evidence.</p>
+Outside of promotions, many organizations review compensation annually. If a full review cycle has passed without an adjustment, it's reasonable to start the conversation.
 
-  <h3>Start with market data</h3>
-  <p>Look up your role, experience level, and location on salary comparison sites, industry surveys, or platforms like LinkedIn Salary and Glassdoor.</p>
+### The Company Is Performing Well
 
-  <h3>Calculate the actual dollar gap</h3>
-  <p>If market data suggests your role pays $65,000–$75,000 and you're currently at $58,000, that gap becomes your negotiating range — not a number picked out of thin air.</p>
-  <div class="callout">
-    <p>A raise calculator can help you quickly see what a given percentage increase translates to in dollars, as both a lump amount and a new monthly figure.</p>
-  </div>
+Raises are generally easier to approve when budgets are healthy. If the company is growing, hiring, or reporting strong results, the timing may be more favorable.
 
-  <h3>Typical raise ranges</h3>
-  <table>
-    <tr><th>Reason</th><th>Typical range</th></tr>
-    <tr><td>Standard annual increase</td><td>3–5%</td></tr>
-    <tr><td>Expanded responsibilities</td><td>5–10%</td></tr>
-    <tr><td>Promotion</td><td>10–20%+</td></tr>
-    <tr><td>Competing offer</td><td>Match or slightly exceed</td></tr>
-  </table>
+### You Have Market Data or a Competing Offer
 
-  <h3>Example raise calculation</h3>
-  <div class="calc">
-    <div class="calc-row"><span class="calc-label">Current salary</span><span class="calc-value">$50,000</span></div>
-    <div class="calc-row"><span class="calc-label">Requested increase</span><span class="calc-value">8%</span></div>
-    <div class="calc-row"><span class="calc-label">Raise amount</span><span class="calc-value">$4,000</span></div>
-    <div class="calc-row"><span class="calc-label">New salary</span><span class="calc-value">$54,000</span></div>
-  </div>
+Reliable salary benchmarks—or a legitimate competing offer—can provide objective evidence of your market value.
 
-  <h2>Raise readiness checklist</h2>
-  <p>Before asking for a raise, evaluate whether you have a strong foundation for the conversation.</p>
-  <ul class="checklist">
-    <li><span class="num">1</span><div><span class="q">Has it been at least 12 months since your last raise?</span><p class="a">Many organizations review compensation annually.</p></div></li>
-    <li><span class="num">2</span><div><span class="q">Have your responsibilities increased?</span><p class="a">If your work now goes beyond your original job description, your pay may not reflect your actual role.</p></div></li>
-    <li><span class="num">3</span><div><span class="q">Can you demonstrate measurable results?</span><p class="a">Revenue growth · cost savings · process improvements · client retention · project delivery · team leadership.</p></div></li>
-    <li><span class="num">4</span><div><span class="q">Does market data suggest you're underpaid?</span><p class="a">Research pay for your role, experience, and location.</p></div></li>
-    <li><span class="num">5</span><div><span class="q">Is the company financially stable?</span><p class="a">Even well-deserved raises are easier to approve when budgets are healthy.</p></div></li>
-  </ul>
-  <table>
-    <tr><th>Yes answers</th><th>Readiness</th></tr>
-    <tr><td>0–2</td><td>Gather more evidence before asking</td></tr>
-    <tr><td>3–4</td><td>Reasonable basis for a discussion</td></tr>
-    <tr><td>5</td><td>Strong foundation for the conversation</td></tr>
-  </table>
+## Signs It Might Be the Wrong Time
 
-  <h2>Building your case</h2>
-  <ol>
-    <li><strong>List concrete accomplishments</strong> from the past review period.</li>
-    <li><strong>Tie those accomplishments to business impact.</strong> "Reduced processing time by 20%" beats a general description of effort.</li>
-    <li><strong>Bring market data</strong> to show your pay relative to your role and experience.</li>
-    <li><strong>Propose a specific number</strong>, not a vague range.</li>
-    <li><strong>Practice saying the number out loud</strong> before the conversation.</li>
-  </ol>
+Not every situation is ideal for a compensation discussion.
 
-  <h2>What to do if the answer is no</h2>
-  <p>Ask directly what would need to change — in performance, scope, or timing — for the answer to be different, and when it would be reasonable to revisit the conversation.</p>
-  <p>If the answer is a repeated "no" with no clear path forward, especially alongside market data showing you're underpaid, that's a signal worth taking seriously.</p>
+### The Company Recently Had Layoffs or a Hiring Freeze
 
-  <h2>Frequently asked questions</h2>
-  <details><summary>How much of a raise is reasonable to ask for?</summary><p>Standard annual increases are typically 3–5%, expanded responsibilities often justify 5–10%, and promotions can range 10–20% or more. Ground the number in market data for your specific role.</p></details>
-  <details><summary>When is the best time to ask for a raise?</summary><p>After a strong performance period, when responsibilities have grown, over a year since your last adjustment, and when the company is financially stable.</p></details>
-  <details><summary>Should I mention a competing offer?</summary><p>It can be effective, but use it carefully — as context, not as a threat.</p></details>
-  <details><summary>What if my manager says there's no budget?</summary><p>Ask what would need to change, and get a specific timeline for reconsideration.</p></details>
-  <details><summary>How do I know if I'm underpaid?</summary><p>Compare your pay against market data for your role, experience, and location. A consistent gap is a strong signal.</p></details>
+Budget constraints often follow layoffs, hiring freezes, or restructuring efforts.
 
-  <footer>When (and How Much) to Ask for a Raise · Career &amp; Compensation</footer>
-</div>
-</body>
-</html>
+### You're New to the Role
+
+Most employers expect employees to spend at least six to twelve months in a position before considering a salary adjustment unless responsibilities changed significantly.
+
+### Your Recent Performance Has Been Inconsistent
+
+Raise discussions are typically strongest after a successful review period or notable accomplishments.
+
+### You Don't Understand the Company's Review Process
+
+Before asking, learn when compensation decisions are usually made and whether there are established salary review cycles.
+
+## How Much Should You Ask For?
+
+One of the biggest mistakes people make is choosing a number without supporting evidence.
+
+### Start With Market Data
+
+Research salaries for your role, experience level, industry, and location using reputable salary sources such as Glassdoor, LinkedIn Salary, Payscale, or industry compensation reports.
+
+The goal is to understand what the market is currently paying, not what feels fair.
+
+### Calculate the Actual Gap
+
+Compare your current compensation to the market range.
+
+For example:
+
+| Current Salary | Market Range |
+|---------------|-------------|
+| $58,000 | $65,000–$75,000 |
+
+In this scenario, your compensation may be approximately 12–29% below market value.
+
+### Use a Raise Calculator
+
+A [Raise Calculator](/raise-calculator) can help estimate how different percentage increases affect your annual and monthly earnings.
+
+### Typical Raise Ranges
+
+While every situation is different, these benchmarks can help set expectations:
+
+| Situation | Typical Increase |
+|------------|----------------|
+| Annual performance increase | 3–5% |
+| Expanded responsibilities | 5–10% |
+| Promotion | 10–20%+ |
+| Counteroffer situation | Highly variable |
+
+These are reference points, not guarantees. Your request should ultimately be supported by evidence and business impact.
+
+## Building Your Case
+
+A raise request is most effective when it resembles a business case rather than a personal appeal.
+
+### 1. Document Your Accomplishments
+
+Create a list of:
+
+- Completed projects
+- Revenue contributions
+- Efficiency improvements
+- New responsibilities
+- Positive feedback
+- Certifications or new skills
+
+### 2. Connect Results to Business Impact
+
+Whenever possible, quantify results.
+
+Examples:
+
+- Reduced processing time by 20%
+- Increased customer satisfaction scores
+- Generated additional revenue
+- Improved operational efficiency
+
+Specific outcomes are more persuasive than general statements about effort.
+
+### 3. Bring Market Research
+
+Provide salary data showing where your current compensation sits relative to similar roles.
+
+### 4. Ask for a Specific Number
+
+A clear, well-supported request is easier for managers to evaluate and advocate for internally.
+
+### 5. Practice the Conversation
+
+Many people become uncomfortable discussing compensation. Practicing beforehand helps you communicate confidently and clearly.
+
+## What to Do If the Answer Is No
+
+A "no" does not necessarily mean the conversation is over.
+
+Ask questions such as:
+
+- What would need to change for a raise to be approved?
+- What goals should I achieve before revisiting this discussion?
+- When would be a good time to review compensation again?
+
+This turns a rejection into a roadmap.
+
+If the answer continues to be "no" despite strong performance and clear market evidence, it may be worth evaluating your long-term opportunities within the organization.
+
+## Frequently Asked Questions
+
+### How Much of a Raise Is Reasonable to Ask For?
+
+It depends on the situation. Annual increases are often around 3–5%, expanded responsibilities may justify 5–10%, and promotions can justify 10–20% or more.
+
+### When Is the Best Time to Ask for a Raise?
+
+Typically after a strong performance period, after taking on additional responsibilities, or during scheduled compensation reviews.
+
+### Should I Mention a Competing Offer?
+
+A legitimate competing offer can strengthen your position, but it should be presented professionally as market context rather than as a threat.
+
+### What If My Manager Says There Is No Budget?
+
+Ask what specific goals, performance metrics, or timelines would make a future raise possible.
+
+### How Do I Know If I'm Underpaid?
+
+Compare your compensation to reliable market data for similar roles, industries, experience levels, and locations. Consistent gaps may indicate that a raise discussion is warranted.
+
+## Related Tools
+
+- [Raise Calculator](/raise-calculator)
+- [Salary Calculator](/salary-calculator)
+- [Hourly to Annual Salary Calculator](/hourly-to-annual-calculator)
+
+---
+
+**Last updated:** September 2026

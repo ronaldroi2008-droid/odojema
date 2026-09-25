@@ -16,32 +16,31 @@ export default function BlogIndex() {
 console.log(posts);  
 
   return (
-    <main className="max-w-3xl mx-auto px-6 py-20">
-      <Link href="/" className="text-blue-600 hover:underline">
-        ← Back to Home
-      </Link>
+    <main className="min-h-screen bg-[#F7F5F0]">
+  <article className="max-w-3xl mx-auto px-6 py-20">
+    <Link
+      href="/blog"
+      className="text-[#1F6F54] hover:underline"
+    >
+      ← Back to Blog
+    </Link>
 
-      <h1 className="text-4xl font-bold mt-6">Blog</h1>
+    <h1 className="text-5xl font-bold mt-8 leading-tight">
+      {post.title}
+    </h1>
 
-      <p className="mt-4 text-gray-600">
-        Practical guides on salary, freelance rates, and income calculations.
-      </p>
+    <p className="mt-4 text-gray-500">
+      {post.date}
+    </p>
 
-      <div className="mt-10 space-y-8">
-        {posts.map((post) => (
-          <div key={post.slug} className="border-b pb-6">
-            <Link href={`/blog/${post.slug}`}>
-              <h2 className="text-2xl font-semibold hover:underline">
-                {post.title}
-              </h2>
-            </Link>
-
-            <p className="mt-2 text-sm text-gray-500">{post.date}</p>
-
-            <p className="mt-2 text-gray-600">{post.excerpt}</p>
-          </div>
-        ))}
-      </div>
-    </main>
+    <div
+      className="prose prose-lg max-w-none mt-12"
+      dangerouslySetInnerHTML={{
+        __html: post.contentHtml,
+      }}
+    />
+  </article>
+</main>
+   
   );
 }
