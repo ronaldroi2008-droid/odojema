@@ -17,13 +17,20 @@ export default function Home() {
       href: "/freelance-rate-calculator",
       description: "Calculate your ideal freelance rate.",
     },
+    {
+      title: "Hourly to Annual Calculator",
+      href: "/hourly-to-annual-calculator",
+      description: "Convert hourly pay into annual salary.",
+    },
   ];
 
   return (
     <main className="min-h-screen">
       <nav className="border-b">
         <div className="max-w-6xl mx-auto px-6 py-4">
-          <h1 className="font-bold text-2xl">Odojema</h1>
+          <h1 className="font-bold text-2xl">
+            Odojema
+          </h1>
         </div>
       </nav>
 
@@ -36,7 +43,7 @@ export default function Home() {
           Free calculators to help you make smarter work and income decisions.
         </p>
 
-        <div className="grid md:grid-cols-3 gap-6 mt-12">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
           {tools.map((tool) => (
             <Link
               key={tool.href}
