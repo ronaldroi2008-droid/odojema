@@ -13,17 +13,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Odojema",
-  description: "Career & Income Tools for Smarter Work Decisions",
+  title: "Odojema | Career & Income Tools",
+  description:
+    "Free salary calculators, raise calculators, freelance rate calculators, and career tools.",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
   return (
     <html
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        {children}
+      </body>
     </html>
   );
 }
