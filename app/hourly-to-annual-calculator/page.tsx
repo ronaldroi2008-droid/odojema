@@ -89,6 +89,28 @@ export default function HourlyToAnnualCalculator() {
           <p className="text-4xl font-bold mt-4">
             ${annualSalary.toLocaleString()}
           </p>
+
+          <div className="mt-6 space-y-2">
+            <p>
+              Monthly Salary:{" "}
+              <strong>
+                $
+                {(annualSalary / 12).toLocaleString(undefined, {
+                  maximumFractionDigits: 2,
+                })}
+              </strong>
+            </p>
+
+            <p>
+              Weekly Salary:{" "}
+              <strong>
+                $
+                {(annualSalary / 52).toLocaleString(undefined, {
+                  maximumFractionDigits: 2,
+                })}
+              </strong>
+            </p>
+          </div>
         </div>
       )}
 
