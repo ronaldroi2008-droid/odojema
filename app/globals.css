@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap');
 
 :root {
   --background: #ffffff;
@@ -10,6 +12,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: "Source Serif 4", serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +26,45 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.prose {
+  --tw-prose-headings: #1B1F23;
+  --tw-prose-body: #2A2E32;
+  --tw-prose-links: #1F6F54;
+  --tw-prose-bold: #1B1F23;
+  --tw-prose-bullets: #1F6F54;
+  --tw-prose-th-borders: #DEDAD0;
+  --tw-prose-td-borders: #DEDAD0;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-family: "Source Serif 4", serif;
+  letter-spacing: -0.01em;
+}
+
+.prose h2 {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid #DEDAD0;
+}
+
+.prose a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.prose table {
+  font-size: 0.9em;
+}
+
+.prose th {
+  text-transform: uppercase;
+  font-size: 0.75em;
+  letter-spacing: 0.03em;
+  color: #4A5157;
 }
