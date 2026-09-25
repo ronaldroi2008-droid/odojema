@@ -21,6 +21,11 @@ export default function Home() {
       description: "Calculate your ideal freelance rate.",
     },
     {
+      title: "Freelance Day Rate Calculator",
+      href: "/freelance-day-rate-calculator",
+      description: "Convert between hourly and day rates.",
+    },
+    {
       title: "Hourly to Annual Calculator",
       href: "/hourly-to-annual-calculator",
       description: "Convert hourly pay into annual salary.",
