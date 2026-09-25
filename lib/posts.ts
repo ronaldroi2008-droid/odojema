@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import html from "remark-html";
 
 const postsDirectory = path.join(process.cwd(), "posts");
@@ -34,9 +35,7 @@ export function getAllPosts(): PostMeta[] {
     };
   });
 
-  return allPosts.sort((a, b) =>
-    a.date < b.date ? 1 : -1
-  );
+  return allPosts.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getAllPostSlugs(): string[] {
@@ -44,22 +43,18 @@ export function getAllPostSlugs(): string[] {
     .readdirSync(postsDirectory)
     .filter((file) => file.endsWith(".md"));
 
-  return fileNames.map((fileName) =>
-    fileName.replace(/\.md$/, "")
-  );
+  return fileNames.map((fileName) => fileName.replace(/\.md$/, ""));
 }
 
 export async function getPostBySlug(slug: string) {
-  const fullPath = path.join(
-    postsDirectory,
-    `${slug}.md`
-  );
+  const fullPath = path.join(postsDirectory, `${slug}.md`);
 
   const fileContents = fs.readFileSync(fullPath, "utf8");
 
   const { data, content } = matter(fileContents);
 
   const processedContent = await remark()
+    .use(remarkGfm)
     .use(html)
     .process(content);
 
