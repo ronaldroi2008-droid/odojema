@@ -80,6 +80,52 @@ export default function HourlyToAnnualCalculator() {
           </code>
         </div>
       </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold">
+          Example Calculation
+        </h2>
+
+        <p className="mt-4">
+          If you earn $10 per hour and work 40 hours per week for 52 weeks:
+        </p>
+
+        <div className="mt-4 p-4 bg-gray-100 rounded-lg">
+          <code>
+            $10 × 40 × 52 = $20,800
+          </code>
+        </div>
+
+        <p className="mt-4">
+          Your estimated annual salary would be $20,800.
+        </p>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-bold">
+          Frequently Asked Questions
+        </h2>
+
+        <div className="mt-6">
+          <h3 className="font-semibold">
+            How do I calculate annual salary from hourly pay?
+          </h3>
+
+          <p className="mt-2">
+            Multiply your hourly rate by the number of hours worked per week and then by the number of weeks worked per year.
+          </p>
+        </div>
+
+        <div className="mt-6">
+          <h3 className="font-semibold">
+            How many work hours are in a year?
+          </h3>
+
+          <p className="mt-2">
+            A standard full-time schedule is 40 hours per week for 52 weeks, or 2,080 hours per year.
+          </p>
+        </div>
+      </section>
     </main>
   );
 }
