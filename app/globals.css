@@ -34,24 +34,6 @@ body {
 
 .prose {
   max-width: 75ch;
-  font-size: 17px;
-  line-height: 1.8;
-}
-
-.prose h1,
-.prose h2,
-.prose h3 {
-  font-family: var(--font-serif);
-}
-
-.prose h2 {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid #dedad0;
-}
-
-.prose {
-  max-width: 75ch;
   font-size: 18px;
   line-height: 1.85;
   color: #2a2e32;
@@ -99,20 +81,21 @@ body {
 }
 
 .prose code {
-  background: #f3f3f3;
+  background: #f3f3f3 !important;
+  color: #1b1f23 !important;
   padding: 0.15rem 0.4rem;
   border-radius: 4px;
 }
 
 .prose pre {
-  background-color: #f3f4f6;
-  color: #111827;
-  padding: 1rem;
-  border-radius: 0.5rem;
-  overflow-x: auto;
+  background-color: #f3f4f6 !important;
+  padding: 1rem !important;
+  border-radius: 0.5rem !important;
+  overflow-x: auto !important;
 }
 
-.prose code {
-  color: inherit;
-  background-color: transparent;
+.prose pre code {
+  background-color: transparent !important;
+  color: #111827 !important;
+  padding: 0 !important;
 }
