@@ -6,6 +6,11 @@ export default function Home() {
 
   const tools = [
     {
+      title: "Job Offer Comparison Calculator",
+      href: "/job-offer-comparison-calculator",
+      description: "Compare two job offers by total compensation, not just salary.",
+    },
+    {
       title: "Salary Calculator",
       href: "/salary-calculator",
       description: "Calculate your annual salary from monthly income.",
