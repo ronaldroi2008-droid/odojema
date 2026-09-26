@@ -1,11 +1,14 @@
-import type { MetadataRoute } from "next";
+import { MetadataRoute } from "next";
+
+export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://odojema.com";
+
   return [
     {
-      url: "https://odojema.com",
+      url: baseUrl,
       lastModified: new Date(),
-      changeFrequency: "weekly",
       priority: 1,
     },
   ];
