@@ -11,6 +11,11 @@ export default function Home() {
       description: "Compare two job offers by total compensation, not just salary.",
     },
     {
+      title: "Raise Compounding Calculator",
+      href: "/raise-compounding-calculator",
+      description: "Compare annual raises vs. a one-time jump over several years.",
+    },
+    {
       title: "Salary Calculator",
       href: "/salary-calculator",
       description: "Calculate your annual salary from monthly income.",
