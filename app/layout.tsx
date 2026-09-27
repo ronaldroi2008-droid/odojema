@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://odojema.pages.dev"),
+  metadataBase: new URL("https://odojema.com"),
 
   title: {
     default: "Odojema | Career & Income Tools",
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
     title: "Odojema | Career & Income Tools",
     description:
       "Free salary calculators, raise calculators, freelance rate calculators, and career tools.",
-    url: "https://odojema.pages.dev",
+    url: "https://odojema.com",
     siteName: "Odojema",
     type: "website",
   },
@@ -60,6 +61,8 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         {children}
       </body>
+
+      <GoogleAnalytics gaId="G-B251JYYDNT" />
     </html>
   );
 }
