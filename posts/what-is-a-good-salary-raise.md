@@ -1,7 +1,7 @@
 ---
 title: "What Is a Good Salary Raise? Average Raise Percentages Explained"
 date: "2026-09-27"
-excerpt: "Learn what is considered a good salary raise, including average annual increases, promotion raises, and job-change salary jumps. Compare 3%, 5%, and 10% raises with real examples."
+excerpt: "Learn what counts as a good salary raise, including average annual increases, promotion raises, and job-change salary jumps."
 ---
 
 ## Direct Answer
