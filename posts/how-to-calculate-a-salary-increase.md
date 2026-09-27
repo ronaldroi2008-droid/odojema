@@ -1,3 +1,9 @@
+---
+title: "How to Calculate a Salary Increase (With Formula & Examples)"
+date: "2026-09-27"
+excerpt: "Learn how to calculate a salary increase using simple formulas and real examples. Discover how percentage raises affect your monthly and annual income."
+---
+
 # How to Calculate a Salary Increase (With Examples)
 
 ## Direct Answer
