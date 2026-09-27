@@ -18,7 +18,7 @@ export async function generateMetadata({
     const post = await getPostBySlug(slug);
 
     return {
-      title: `${post.title} | Odojema Blog`,
+      title: post.title,
       description: post.excerpt,
       alternates: {
         canonical: `https://odojema.com/blog/${slug}`,
