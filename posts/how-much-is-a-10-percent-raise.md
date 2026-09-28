@@ -1,7 +1,7 @@
 ---
 title: "How Much Is a 10% Raise? Salary Increase Examples & Calculator"
 date: "2026-09-28"
-excerpt: "Learn how much a 10% raise adds to your salary with simple formulas and real examples. See annual, monthly, and paycheck increases and find out if a 10% raise is considered good."
+excerpt: Learn how much a 10% raise adds to your salary with simple formulas and real examples. See annual, monthly, and paycheck increases and if 10% is good.
 ---
 
 A 10% raise increases your current salary by 10%. To calculate it, multiply your current salary by 0.10 and add the result to your existing pay. For example, a $50,000 salary with a 10% raise becomes $55,000, adding $5,000 per year before taxes.
