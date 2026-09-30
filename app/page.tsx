@@ -40,6 +40,11 @@ export default function Home() {
       href: "/hourly-to-annual-calculator",
       description: "Convert hourly pay into annual salary.",
     },
+    {
+      title: "Overtime Pay Calculator",
+      href: "/overtime-pay-calculator",
+      description: "Calculate your regular pay, overtime pay, and total earnings.",
+    },
   ];
 
   return (
