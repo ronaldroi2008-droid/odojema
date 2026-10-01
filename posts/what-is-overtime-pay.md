@@ -239,7 +239,7 @@ Double time means earning twice your regular hourly rate. A $20 hourly rate beco
 Some salaried employees may qualify depending on employment classification and labor regulations. Many exempt salaried roles do not qualify, while non-exempt salaried employees typically do.
 
 **How is overtime calculated?**
-Use the formula: Hourly Rate × Overtime Multiplier × Overtime Hours. For the full step-by-step process, see our guide on [how to calculate overtime pay](https://odojema.com/how-to-calculate-overtime-pay).
+Use the formula: Hourly Rate × Overtime Multiplier × Overtime Hours. For the full step-by-step process, see our guide on [how to calculate overtime pay](https://odojema.com/blog/how-to-calculate-overtime-pay).
 
 ## Related tools
 
