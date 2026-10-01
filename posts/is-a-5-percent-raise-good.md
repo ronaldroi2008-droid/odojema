@@ -1,6 +1,6 @@
 ---
 title: "Is a 5% Raise Good? How It Compares"
-date: "2026-10-01"
+date: "2026-10-02"
 excerpt: "Is a 5% raise good? Learn how a 5 percent salary increase compares to common raises and what it means for long-term earnings."
 ---
 
