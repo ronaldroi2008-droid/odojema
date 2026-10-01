@@ -144,7 +144,7 @@ Here's how an average raise compares with a 5% raise on a $50,000 salary:
 | Average raise (3%) | $1,500 | $51,500 |
 | 5% raise | $2,500 | $52,500 |
 
-The difference is **$1,000 more annually** for the 5% raise, or roughly $83 more per month before taxes. A 5% raise is generally viewed as a strong result, often tied to performance that clearly exceeds expectations rather than simply meeting them. For the full breakdown of formulas, examples, and paycheck impact at this percentage, see [how much a 5% raise is worth](https://odojema.com/how-much-is-a-5-percent-raise).
+The difference is **$1,000 more annually** for the 5% raise, or roughly $83 more per month before taxes. A 5% raise is generally viewed as a strong result, often tied to performance that clearly exceeds expectations rather than simply meeting them. For the full breakdown of formulas, examples, and paycheck impact at this percentage, see [how much a 5% raise is worth](https://odojema.com/blog/how-much-is-a-5-percent-raise).
 
 ## Average raise vs 10% raise
 
@@ -155,9 +155,9 @@ The gap widens considerably against a 10% raise:
 | Average raise | $1,500 | $51,500 |
 | 10% raise | $5,000 | $55,000 |
 
-The difference here is **$3,500 annually**, more than double what the average raise provides. A 10% raise is well above what a routine annual review typically delivers, and it usually points to something more specific happening, such as a promotion, a retention effort, or a significant market correction. See [how much a 10% raise is worth](https://odojema.com/how-much-is-a-10-percent-raise) for the full set of examples and a year-by-year compounding view.
+The difference here is **$3,500 annually**, more than double what the average raise provides. A 10% raise is well above what a routine annual review typically delivers, and it usually points to something more specific happening, such as a promotion, a retention effort, or a significant market correction. See [how much a 10% raise is worth](https://odojema.com/blog/how-much-is-a-10-percent-raise) for the full set of examples and a year-by-year compounding view.
 
-If you're trying to figure out what counts as reasonable for your own situation rather than just average, the [guide to reasonable raise percentages](https://odojema.com/reasonable-raise-percentage) breaks that down by circumstance, including performance, promotions, and retention raises.
+If you're trying to figure out what counts as reasonable for your own situation rather than just average, the [guide to reasonable raise percentages](https://odojema.com/blog/reasonable-raise-percentage) breaks that down by circumstance, including performance, promotions, and retention raises.
 
 ## Why some employees receive larger raises
 
