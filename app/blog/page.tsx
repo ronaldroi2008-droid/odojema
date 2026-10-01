@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 
+const POSTS_PER_PAGE = 10;
+
 export const metadata = {
   title: "Blog | Odojema",
   description:
@@ -10,21 +12,29 @@ export const metadata = {
   },
 };
 
-export default function BlogIndex() {
-  const posts = getAllPosts();
+export default function BlogIndex({
+  searchParams,
+}: {
+  searchParams: { page?: string };
+}) {
+  const allPosts = getAllPosts();
+  const totalPages = Math.max(1, Math.ceil(allPosts.length / POSTS_PER_PAGE));
+
+  const currentPage = Math.min(
+    Math.max(1, parseInt(searchParams.page || "1", 10) || 1),
+    totalPages
+  );
+
+  const start = (currentPage - 1) * POSTS_PER_PAGE;
+  const posts = allPosts.slice(start, start + POSTS_PER_PAGE);
 
   return (
     <main className="max-w-4xl mx-auto px-6 py-20">
-      <Link
-        href="/"
-        className="text-[#1F6F54] hover:underline"
-      >
+      <Link href="/" className="text-[#1F6F54] hover:underline">
         ← Back to Home
       </Link>
 
-      <h1 className="text-5xl font-bold mt-8">
-        Blog
-      </h1>
+      <h1 className="text-5xl font-bold mt-8">Blog</h1>
 
       <p className="mt-4 text-gray-600">
         Practical guides on salary, freelance rates, and income calculations.
@@ -32,23 +42,16 @@ export default function BlogIndex() {
 
       <div className="mt-12 space-y-10">
         {posts.map((post) => (
-          <article
-            key={post.slug}
-            className="border-b border-gray-200 pb-8"
-          >
+          <article key={post.slug} className="border-b border-gray-200 pb-8">
             <Link href={`/blog/${post.slug}`}>
               <h2 className="text-3xl font-semibold hover:text-[#1F6F54] transition">
                 {post.title}
               </h2>
             </Link>
 
-            <p className="mt-2 text-sm text-gray-500">
-              {post.date}
-            </p>
+            <p className="mt-2 text-sm text-gray-500">{post.date}</p>
 
-            <p className="mt-4 text-gray-700">
-              {post.excerpt}
-            </p>
+            <p className="mt-4 text-gray-700">{post.excerpt}</p>
 
             <Link
               href={`/blog/${post.slug}`}
@@ -59,6 +62,74 @@ export default function BlogIndex() {
           </article>
         ))}
       </div>
+
+      {totalPages > 1 && (
+        <nav
+          aria-label="Blog pagination"
+          className="mt-4 flex items-center justify-center gap-2"
+        >
+          <PageLink
+            page={currentPage - 1}
+            disabled={currentPage === 1}
+            label="← Previous"
+          />
+
+          <div className="flex items-center gap-1 mx-2">
+            {Array.from({ length: totalPages }, (_, i) => i + 1).map(
+              (page) => {
+                const isCurrent = page === currentPage;
+                return (
+                  <Link
+                    key={page}
+                    href={page === 1 ? "/blog" : `/blog?page=${page}`}
+                    aria-current={isCurrent ? "page" : undefined}
+                    className={
+                      isCurrent
+                        ? "w-9 h-9 flex items-center justify-center rounded-lg text-sm font-semibold text-white bg-[#1F6F54]"
+                        : "w-9 h-9 flex items-center justify-center rounded-lg text-sm border border-gray-300 hover:border-[#1F6F54] hover:text-[#1F6F54] transition"
+                    }
+                  >
+                    {page}
+                  </Link>
+                );
+              }
+            )}
+          </div>
+
+          <PageLink
+            page={currentPage + 1}
+            disabled={currentPage === totalPages}
+            label="Next →"
+          />
+        </nav>
+      )}
     </main>
+  );
+}
+
+function PageLink({
+  page,
+  disabled,
+  label,
+}: {
+  page: number;
+  disabled: boolean;
+  label: string;
+}) {
+  if (disabled) {
+    return (
+      <span className="px-4 py-2 rounded-lg text-sm text-gray-300 cursor-not-allowed select-none">
+        {label}
+      </span>
+    );
+  }
+
+  return (
+    <Link
+      href={page === 1 ? "/blog" : `/blog?page=${page}`}
+      className="px-4 py-2 rounded-lg text-sm border border-gray-300 hover:border-[#1F6F54] hover:text-[#1F6F54] transition"
+    >
+      {label}
+    </Link>
   );
 }
