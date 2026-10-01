@@ -61,7 +61,7 @@ Here's a fast reference at common salary levels:
 | $75,000 | $7,500 | $82,500 |
 | $100,000 | $10,000 | $110,000 |
 
-If your salary isn't listed, multiply it by 0.10 for the raise amount, or by 1.10 for your new salary. For a full breakdown, including monthly and paycheck-level detail, see [how much a 10% raise is worth](https://odojema.com/how-much-is-a-10-percent-raise).
+If your salary isn't listed, multiply it by 0.10 for the raise amount, or by 1.10 for your new salary. For a full breakdown, including monthly and paycheck-level detail, see [how much a 10% raise is worth](https://odojema.com/blog/how-much-is-a-10-percent-raise).
 
 ## Is a 10% raise better than average?
 
@@ -82,7 +82,7 @@ Salary:    $50,000
 Difference: $3,500
 ```
 
-A 10% raise is worth $3,500 more per year than a typical 3% raise on this salary, which is more than double the raise amount overall. In most workplaces, this places a 10% increase well above what the average employee receives in a given year. For a closer look at what counts as typical and how averages get calculated across a workforce, see the [guide to average percentage raises](https://odojema.com/average-percentage-raise).
+A 10% raise is worth $3,500 more per year than a typical 3% raise on this salary, which is more than double the raise amount overall. In most workplaces, this places a 10% increase well above what the average employee receives in a given year. For a closer look at what counts as typical and how averages get calculated across a workforce, see the [guide to average percentage raises](https://odojema.com/blog/average-percentage-raise).
 
 ## Is a 10% raise good after a promotion?
 
@@ -141,7 +141,7 @@ Here's how the two compare directly on a $50,000 salary:
 | 5% raise | $2,500 | $52,500 |
 | 10% raise | $5,000 | $55,000 |
 
-The difference is **$2,500 more annually** for the 10% raise, exactly double the amount. A 5% raise is generally viewed as a strong outcome for a routine review, tied to solid performance. A 10% raise usually requires something more specific behind it, whether that's a promotion, a retention effort, or a market correction. For the full breakdown of formulas and examples at the 5% level, see [how much a 5% raise is worth](https://odojema.com/how-much-is-a-5-percent-raise).
+The difference is **$2,500 more annually** for the 10% raise, exactly double the amount. A 5% raise is generally viewed as a strong outcome for a routine review, tied to solid performance. A 10% raise usually requires something more specific behind it, whether that's a promotion, a retention effort, or a market correction. For the full breakdown of formulas and examples at the 5% level, see [how much a 5% raise is worth](https://odojema.com/blog/how-much-is-a-5-percent-raise).
 
 ## 10% raise vs changing jobs
 
