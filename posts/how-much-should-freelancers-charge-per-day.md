@@ -37,7 +37,7 @@ Billable Days = 200
 Day Rate      = $400/day
 ```
 
-This gives you a baseline number to start from, not a final answer. It assumes every billable day is actually filled with paid work, and it doesn't yet account for taxes or business expenses, both of which typically need to be layered on top. For a deeper look at how this formula works and where the billable day assumption comes from, see our guide on [what a day rate actually means](https://odojema.com/what-is-a-day-rate).
+This gives you a baseline number to start from, not a final answer. It assumes every billable day is actually filled with paid work, and it doesn't yet account for taxes or business expenses, both of which typically need to be layered on top. For a deeper look at how this formula works and where the billable day assumption comes from, see our guide on [what a day rate actually means](https://odojema.com/blog/what-is-a-day-rate).
 
 ## Freelancer day rate examples
 
@@ -193,7 +193,7 @@ Working through this formula by hand is a good way to understand the logic, but 
 
 If you're setting freelance rates or comparing income options, these tools can help:
 
-- [What is a day rate](https://odojema.com/what-is-a-day-rate): understand the basics of day rate pricing
+- [What is a day rate](https://odojema.com/blog/what-is-a-day-rate): understand the basics of day rate pricing
 - [Freelance day rate calculator](https://odojema.com/freelance-day-rate-calculator): estimate a daily rate from your income goal and billable days
 - [Freelance rate calculator](https://odojema.com/freelance-rate-calculator): work out an hourly or project-based freelance rate
 - [Salary calculator](https://odojema.com/salary-calculator): estimate income across pay periods
