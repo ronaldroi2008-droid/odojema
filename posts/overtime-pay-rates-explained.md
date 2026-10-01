@@ -249,14 +249,14 @@ No. Holiday overtime rates vary by employer and location. Some employers apply t
 Use the formula: Overtime Rate = Hourly Rate × Overtime Multiplier. For example, a $20 hourly rate at a 1.5× multiplier gives an overtime rate of $30.
 
 **How do I calculate overtime pay?**
-Use the formula: Overtime Pay = Hourly Rate × Overtime Multiplier × Overtime Hours. For the full step-by-step process, see our guide on [how to calculate overtime pay](https://odojema.com/how-to-calculate-overtime-pay).
+Use the formula: Overtime Pay = Hourly Rate × Overtime Multiplier × Overtime Hours. For the full step-by-step process, see our guide on [how to calculate overtime pay](https://odojema.com/blog/how-to-calculate-overtime-pay).
 
 ## Related resources
 
 **Articles:**
 
-- [What Is Overtime Pay?](https://odojema.com/what-is-overtime-pay): a full breakdown of what overtime pay means and who qualifies
-- [How to Calculate Overtime Pay](https://odojema.com/how-to-calculate-overtime-pay): a step-by-step walkthrough of the overtime formula
+- [What Is Overtime Pay?](https://odojema.com/blog/what-is-overtime-pay): a full breakdown of what overtime pay means and who qualifies
+- [How to Calculate Overtime Pay](https://odojema.com/blog/how-to-calculate-overtime-pay): a step-by-step walkthrough of the overtime formula
 
 **Tools:**
 
