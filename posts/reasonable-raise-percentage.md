@@ -63,7 +63,7 @@ A 3% raise can be reasonable in situations like these:
 - Your pay is already close to market rate for your role, so there is no large gap to close.
 - Your company applies a standard raise budget across most employees rather than large individual variation.
 
-A 3% raise becomes less reasonable when inflation is running higher than 3%, when your responsibilities have grown significantly since your last review, or when comparable roles in your market pay noticeably more. In those cases, 3% may be technically average without actually being fair for your specific situation. For a closer look at what this raise means at other salary levels, see [how much a 5% raise is worth](https://odojema.com/how-much-is-a-5-percent-raise) for comparison against the next tier up.
+A 3% raise becomes less reasonable when inflation is running higher than 3%, when your responsibilities have grown significantly since your last review, or when comparable roles in your market pay noticeably more. In those cases, 3% may be technically average without actually being fair for your specific situation. For a closer look at what this raise means at other salary levels, see [how much a 5% raise is worth](https://odojema.com/blog/how-much-is-a-5-percent-raise) for comparison against the next tier up.
 
 ## Is a 5% raise reasonable?
 
@@ -77,7 +77,7 @@ New Salary: $52,500
 
 A 5% raise is commonly tied to performance-based increases, where an employee has clearly exceeded expectations rather than simply meeting them. It can also reflect a merit increase, where a company distributes a larger share of a limited raise pool to its stronger performers, or an early sign of a market adjustment where an employer is closing a modest gap between your pay and current rates for similar roles.
 
-Compared with a 3% raise, 5% provides a meaningful cushion against inflation in most years and represents real growth in what you can afford, not just a larger number on the paycheck. For the full breakdown of formulas, examples, and paycheck impact at this percentage, see [how much a 5% raise is worth](https://odojema.com/how-much-is-a-5-percent-raise).
+Compared with a 3% raise, 5% provides a meaningful cushion against inflation in most years and represents real growth in what you can afford, not just a larger number on the paycheck. For the full breakdown of formulas, examples, and paycheck impact at this percentage, see [how much a 5% raise is worth](https://odojema.com/blog/how-much-is-a-5-percent-raise).
 
 ## Is a 10% raise reasonable?
 
@@ -95,7 +95,7 @@ A 10% raise is reasonable, and common, in these situations:
 - **Retention raises:** When an employer wants to keep someone who might otherwise leave, particularly if that person has another offer in hand.
 - **Market corrections:** When an employee's pay has fallen noticeably behind current market rates and the employer moves to close that gap in one step rather than gradually.
 
-A 10% raise without any of these circumstances behind it, such as a routine annual review with no change in role, would be unusually generous and worth appreciating rather than expecting as the norm. For the full set of examples and a year-by-year compounding view, see [how much a 10% raise is worth](https://odojema.com/how-much-is-a-10-percent-raise).
+A 10% raise without any of these circumstances behind it, such as a routine annual review with no change in role, would be unusually generous and worth appreciating rather than expecting as the norm. For the full set of examples and a year-by-year compounding view, see [how much a 10% raise is worth](https://odojema.com/blog/how-much-is-a-10-percent-raise).
 
 ## What raise should you ask for?
 
