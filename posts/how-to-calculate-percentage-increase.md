@@ -139,7 +139,7 @@ Once you know your percentage increase, it helps to know how that number is gene
 | 15% | Major raise |
 | 20%+ | Often promotion-related |
 
-These benchmarks are a general guide, not a fixed rule. Actual increases vary by employer, industry, role, and economic conditions, so a 5% raise might be considered excellent in one company or field and fairly ordinary in another. For a deeper look at what counts as reasonable in different situations, see our guides on [how much a 5% raise is worth](https://odojema.com/how-much-is-a-5-percent-raise) and [how much a 10% raise is worth](https://odojema.com/how-much-is-a-10-percent-raise), or check the [average percentage raise](https://odojema.com/average-percentage-raise) guide for a broader benchmark.
+These benchmarks are a general guide, not a fixed rule. Actual increases vary by employer, industry, role, and economic conditions, so a 5% raise might be considered excellent in one company or field and fairly ordinary in another. For a deeper look at what counts as reasonable in different situations, see our guides on [how much a 5% raise is worth](https://odojema.com/blog/how-much-is-a-5-percent-raise) and [how much a 10% raise is worth](https://odojema.com/blog/how-much-is-a-10-percent-raise), or check the [average percentage raise](https://odojema.com/blog/average-percentage-raise) guide for a broader benchmark.
 
 ## More percentage increase examples by category
 
