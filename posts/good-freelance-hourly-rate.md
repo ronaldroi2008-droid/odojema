@@ -124,7 +124,7 @@ $50 × 8 = $400/day
 
 **Day rate advantages** include simpler billing, with no need to track work in small increments, and a stronger focus on outcomes, since clients are paying for a day of expertise and output rather than for hours logged.
 
-Which model fits better often depends on the nature of the work itself. Smaller, less predictable tasks tend to suit hourly billing, while consulting and larger blocks of focused work often suit a day rate better. For a deeper look at how day rates work and when they make more sense than hourly billing, see [what a day rate actually means](https://odojema.com/what-is-a-day-rate).
+Which model fits better often depends on the nature of the work itself. Smaller, less predictable tasks tend to suit hourly billing, while consulting and larger blocks of focused work often suit a day rate better. For a deeper look at how day rates work and when they make more sense than hourly billing, see [what a day rate actually means](https://odojema.com/blog/what-is-a-day-rate).
 
 ## Signs your hourly rate is too low
 
@@ -198,8 +198,8 @@ Working through this formula by hand is a good way to understand the logic, but 
 If you're setting freelance rates or comparing pricing models, these tools can help:
 
 - [Freelance rate calculator](https://odojema.com/freelance-rate-calculator): calculate your hourly or project-based freelance rate
-- [What is a day rate](https://odojema.com/what-is-a-day-rate): understand the basics of day rate pricing
-- [How much should freelancers charge per day](https://odojema.com/how-much-should-freelancers-charge-per-day): a full guide to setting a day rate
+- [What is a day rate](https://odojema.com/blog/what-is-a-day-rate): understand the basics of day rate pricing
+- [How much should freelancers charge per day](https://odojema.com/blog/how-much-should-freelancers-charge-per-day): a full guide to setting a day rate
 - [Freelance day rate calculator](https://odojema.com/freelance-day-rate-calculator): estimate a daily rate from your income goal and billable days
 - [Hourly to annual calculator](https://odojema.com/hourly-to-annual-calculator): convert an hourly wage into a yearly figure
 
