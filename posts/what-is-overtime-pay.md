@@ -72,7 +72,7 @@ Here's how a few common combinations of hourly rate, overtime hours, and multipl
 | $20 | 10 | 1.5× | $300 |
 | $25 | 8 | 2× | $400 |
 
-For your own numbers, the [Overtime Pay Calculator](https://odojema.com/overtime-pay-calculator) fills in a table like this instantly, without needing to calculate each row by hand. For a full walkthrough of the formula and step-by-step math, see our companion guide on [how to calculate overtime pay](https://odojema.com/how-to-calculate-overtime-pay).
+For your own numbers, the [Overtime Pay Calculator](https://odojema.com/overtime-pay-calculator) fills in a table like this instantly, without needing to calculate each row by hand. For a full walkthrough of the formula and step-by-step math, see our companion guide on [how to calculate overtime pay](https://odojema.com/blog/how-to-calculate-overtime-pay).
 
 ## Common overtime rates
 
