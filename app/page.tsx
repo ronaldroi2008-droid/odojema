@@ -45,6 +45,11 @@ export default function Home() {
       href: "/overtime-pay-calculator",
       description: "Calculate your regular pay, overtime pay, and total earnings.",
     },
+    {
+      title: "Percentage Increase Calculator",
+      href: "/percentage-increase-calculator",
+      description: "Calculate percentage increase between two values instantly.",
+    },
   ];
 
   return (
