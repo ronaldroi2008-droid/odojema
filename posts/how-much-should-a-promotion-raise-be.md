@@ -1,7 +1,7 @@
 ---
-title: "How Much Should a Promotion Raise Be? Average Promotion Raise Percentages Explained"
+title: "How Much Should a Promotion Raise Be? Average Promotion Raise Explained"
 date: "2026-10-03"
-excerpt: "How much should a promotion raise be? Learn typical promotion raise percentages, industry benchmarks, and how to evaluate whether a promotion salary increase is fair."
+excerpt: "Learn typical promotion raise percentages, industry benchmarks, and how to evaluate whether a promotion salary increase is fair."
 ---
 
 A promotion raise often falls between 8% and 15% of your current salary, although the exact amount varies by industry, company, job level, and responsibilities. Smaller promotions may come with raises of 5% to 10%, while major promotions involving leadership responsibilities can exceed 15%.
