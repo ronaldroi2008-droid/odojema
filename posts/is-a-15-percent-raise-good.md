@@ -4,8 +4,6 @@ date: "2026-10-03"
 excerpt: "Is a 15% raise good? Learn how a 15 percent salary increase compares to typical raises, promotion increases, and long-term earnings growth."
 ---
 
-# Is a 15% Raise Good?
-
 Yes, a 15% raise is generally considered a very good salary increase. The short answer to "is a 15 percent salary increase good" is almost always yes: it is significantly higher than many routine annual raises and is often associated with promotions, expanded responsibilities, market adjustments, or exceptional performance. While the impact depends on your industry, salary level, and career goals, a 15% raise is commonly viewed as a substantial increase.
 
 Here's how it stacks up at a glance:
