@@ -101,7 +101,7 @@ New Salary:       $108,000
 Monthly Increase: $1,500
 ```
 
-These are gross figures. Taxes and benefit deductions will reduce the amount that reaches your paycheck, so treat the monthly numbers as before-tax estimates. To run your own numbers, use the [Promotion Salary Calculator](https://odojema.com/promotion-salary-calculator).
+These are gross figures. Taxes and benefit deductions will reduce the amount that reaches your paycheck, so treat the monthly numbers as before-tax estimates.
 
 ## What factors affect a promotion raise?
 
@@ -159,7 +159,7 @@ Annual raises and promotion raises serve different purposes, which is why the nu
 
 An annual raise recognizes how well you did the same job. A promotion raise recognizes that you are now doing a bigger job. Because the employer is paying for a different level of responsibility, the increase is naturally larger.
 
-This also means the two are not interchangeable. If you are promoted in the same cycle as your annual review, check whether the promotion raise includes your annual increase or sits on top of it. Some employers combine them into one number, which can make a promotion raise look larger than it really is. For the full comparison, see [promotion raise vs annual raise](https://odojema.com/blog/promotion-raise-vs-annual-raise).
+This also means the two are not interchangeable. If you are promoted in the same cycle as your annual review, check whether the promotion raise includes your annual increase or sits on top of it. Some employers combine them into one number, which can make a promotion raise look larger than it really is.
 
 ## Should you negotiate a promotion raise?
 
@@ -179,7 +179,7 @@ A few practical points make the conversation go better:
 - **Come with a specific number.** "I was hoping for 12%" gives the other person something to respond to. "I was hoping for more" does not.
 - **Consider the whole package.** If the base salary cannot move, ask about a bonus, a shorter path to your next review, additional vacation, or professional development funding.
 
-Not every negotiation ends in a higher number, and that is fine. Even when the answer is no, asking clarifies how the company sees your role and what it would take to earn a larger raise next time. For a step-by-step approach, read [how to negotiate a promotion raise](https://odojema.com/blog/how-to-negotiate-a-promotion-raise).
+Not every negotiation ends in a higher number, and that is fine. Even when the answer is no, asking clarifies how the company sees your role and what it would take to earn a larger raise next time.
 
 ## How to calculate a promotion raise
 
@@ -203,7 +203,7 @@ You can also work backward. If you have been offered a new salary and want to kn
 
 ## Use our promotion salary calculator
 
-If you would rather skip the math, our [Promotion Salary Calculator](https://odojema.com/promotion-salary-calculator) does it instantly. Enter your current salary and the promotion raise percentage, and it estimates:
+If you would rather skip the math, our Promotion Salary Calculator does it instantly. Enter your current salary and the promotion raise percentage, and it estimates:
 
 - Your raise amount
 - Your new salary
@@ -237,8 +237,6 @@ The raise you negotiate at the moment of promotion has a lasting effect, and a g
 
 - [Average raise percentage for a promotion](https://odojema.com/blog/average-raise-percentage-for-a-promotion)
 - [Is a 10% raise good for a promotion?](https://odojema.com/blog/is-a-10-percent-raise-good-for-a-promotion)
-- [How to negotiate a promotion raise](https://odojema.com/blog/how-to-negotiate-a-promotion-raise)
-- [Promotion raise vs annual raise](https://odojema.com/blog/promotion-raise-vs-annual-raise)
 - [What is an average percentage raise?](https://odojema.com/blog/average-percentage-raise)
 - [What is considered a large raise?](https://odojema.com/blog/what-is-considered-a-large-raise)
 
