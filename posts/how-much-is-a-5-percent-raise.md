@@ -296,3 +296,7 @@ It depends on the inflation rate. If inflation is below 5%, your purchasing powe
 
 **How much is a 5% raise per month?**
 Divide your annual raise by 12. On a $50,000 salary, the $2,500 raise adds about $208.33 per month before taxes.
+
+
+
+
