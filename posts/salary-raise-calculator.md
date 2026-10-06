@@ -1,7 +1,7 @@
 ---
 title: "Salary Raise Calculator: Calculate Your Pay Increase in Seconds"
 date: "2026-10-06"
-excerpt: "Use our Salary Raise Calculator to instantly calculate your pay increase, raise percentage, annual salary growth, and monthly earnings. Includes formulas and examples."
+excerpt: " Use our Salary Raise Calculator to instantly calculate your pay increase, raise percentage, and monthly earnings. Includes formulas and real examples."
 ---
 
 A salary raise calculator helps you work out how much your pay will increase after a raise. Enter your current salary and the raise percentage, and you get your raise amount and new salary instantly. Getting a raise is exciting, but many employees struggle to see exactly how much extra money they will actually earn, and what it adds up to each month.
