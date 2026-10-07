@@ -188,8 +188,7 @@ You may also find these helpful:
 - [What Is Overtime Pay?](https://odojema.com/blog/what-is-overtime-pay)
 - [Overtime Pay Rates Explained](https://odojema.com/blog/overtime-pay-rates-explained)
 - [How to Calculate Overtime Pay](https://odojema.com/blog/how-to-calculate-overtime-pay)
-- Double Time vs Time and a Half
-- How Much Is Overtime Worth?
+
 
 ## Frequently asked questions
 
