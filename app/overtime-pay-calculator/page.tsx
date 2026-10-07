@@ -174,29 +174,37 @@ export default function OvertimePayCalculator() {
 
         <ul className="mt-4 list-disc pl-6">
           <li>
-            <a href="/how-is-overtime-pay-calculated">
-              How Is Overtime Pay Calculated?
-            </a>
+            <Link href="/blog/what-is-overtime-pay">What Is Overtime Pay?</Link>
           </li>
           <li>
-            <a href="/what-is-time-and-a-half-pay">
+            <Link href="/blog/overtime-pay-rates-explained">
+              Overtime Pay Rates Explained
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog/how-to-calculate-overtime-pay">
+              How to Calculate Overtime Pay
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog/what-is-time-and-a-half-pay">
               What Is Time and a Half Pay?
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/how-much-is-overtime-worth">
-              How Much Is Overtime Worth?
-            </a>
-          </li>
-          <li>
-            <a href="/overtime-pay-vs-regular-pay">
-              Overtime Pay vs Regular Pay
-            </a>
-          </li>
-          <li>
-            <a href="/double-time-vs-time-and-a-half">
+            <Link href="/blog/double-time-vs-time-and-a-half">
               Double Time vs Time and a Half
-            </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog/how-much-is-overtime-worth">
+              How Much Is Overtime Worth?
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog/overtime-pay-vs-regular-pay">
+              Overtime Pay vs Regular Pay
+            </Link>
           </li>
         </ul>
       </section>
@@ -206,17 +214,17 @@ export default function OvertimePayCalculator() {
 
         <ul className="mt-4 list-disc pl-6">
           <li>
-            <a href="/job-offer-comparison-calculator">
+            <Link href="/job-offer-comparison-calculator">
               Job Offer Comparison Calculator
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/hourly-to-annual-calculator">
+            <Link href="/hourly-to-annual-calculator">
               Hourly to Annual Salary Calculator
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/salary-calculator">Salary Calculator</a>
+            <Link href="/salary-calculator">Salary Calculator</Link>
           </li>
         </ul>
       </section>
