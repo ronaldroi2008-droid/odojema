@@ -3,6 +3,11 @@ import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import AdsterraBanner from "@/components/AdsterraBanner";
 import AdsterraNative from "@/components/AdsterraNative";
+import AdsterraSidebar from "@/components/AdsterraSidebar";
+
+const SIDEBAR_KEY = "e1263ea9bc9eacc05346edb4620c983e";
+const SIDEBAR_SRC =
+  "https://bauval.org/22/e1263ea9bc9eacc05346edb4620c983e";
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs();
@@ -66,6 +71,17 @@ export default async function BlogPost({
 
   return (
     <main className="max-w-3xl mx-auto px-6 py-20">
+      <AdsterraSidebar
+        side="left"
+        adKey={SIDEBAR_KEY}
+        scriptSrc={SIDEBAR_SRC}
+      />
+      <AdsterraSidebar
+        side="right"
+        adKey={SIDEBAR_KEY}
+        scriptSrc={SIDEBAR_SRC}
+      />
+
       <Link href="/blog" className="text-blue-600 hover:underline">
         ← Back to Blog
       </Link>
