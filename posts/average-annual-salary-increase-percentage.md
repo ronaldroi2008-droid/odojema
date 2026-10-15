@@ -1,206 +1,95 @@
 ---
-title: "Average Annual Salary Increase Percentage"
-date: "2026-10-01"
-excerpt: "Learn what an annual salary increase percentage means, how yearly raises are calculated, and how they affect long-term earnings."
+title: "Average Annual Salary Increase Percentage Formula"
+date: "2026-10-12"
+excerpt: "Here's exactly how to calculate your annual salary increase percentage, with worked examples for a single raise and multiple years combined."
 ---
 
-Annual salary increases vary by employer, industry, job performance, economic conditions, and labor market demand. While yearly raises differ from one organization to another, annual salary increases are commonly used to reward performance, retain employees, and adjust compensation over time.
+To calculate your annual salary increase percentage, subtract your old salary from your new salary, divide the result by your old salary, then multiply by 100. For example, going from $50,000 to $52,000 is a $2,000 increase, which divided by $50,000 and multiplied by 100 equals a 4% raise. This same formula works whether you're calculating a single year's raise or comparing salary changes across multiple years.
 
-This guide covers what counts as an annual salary increase, how to calculate the percentage yourself, what factors drive the variation from year to year, and how annual raises compare with promotion raises.
+This guide walks through the formula step by step, how to calculate it across multiple years of raises, how compounding changes the math over time, and the most common mistakes that throw off the calculation.
 
-## What is an annual salary increase?
+## The formula for calculating your annual salary increase percentage
 
-An annual salary increase is a raise given by an employer, usually during a yearly performance review or compensation cycle. It's the most common form of salary growth most employees experience, distinct from the larger jumps that typically come with a promotion.
+The core formula:
 
-Common reasons an employer gives an annual increase include:
+$$\text{Raise Percentage} = \frac{\text{New Salary} - \text{Old Salary}}{\text{Old Salary}} \times 100$$
 
-- **Performance recognition.** Rewarding an employee for meeting or exceeding expectations over the past year.
-- **Cost-of-living adjustments.** Helping pay keep pace with rising prices, even without a change in role or performance.
-- **Market pay adjustments.** Bringing an employee's salary closer to what similar roles currently pay elsewhere.
-- **Employee retention.** Encouraging a valued employee to stay, particularly in a competitive hiring market.
-- **Increased responsibilities.** Compensating for added duties that haven't quite risen to the level of a full promotion.
+Three numbers go into this calculation: your salary before the increase, your salary after the increase, and nothing else. Bonuses, one-time payments, and benefit changes aren't part of a base-salary increase calculation, even though they're worth tracking separately as part of your total compensation.
 
-## How is an annual salary increase percentage calculated?
+## Step-by-step example
 
-The formula is the same one used for any percentage increase:
+Say your salary increased from $62,000 to $65,100.
 
-```
-Salary Increase Percentage = ((New Salary − Old Salary) ÷ Old Salary) × 100
-```
+1. **Subtract the old salary from the new salary:** $65,100 − $62,000 = $3,100.
+2. **Divide by the old salary:** $3,100 ÷ $62,000 = 0.05.
+3. **Multiply by 100 to get a percentage:** 0.05 × 100 = 5%.
 
-**Example:**
+$$\frac{\$65{,}100 - \$62{,}000}{\$62{,}000} \times 100 = 5\%$$
 
-```
-Old Salary: $50,000
-New Salary: $52,000
+The same three steps work regardless of salary size or raise amount. A [raise calculator](https://odojema.com/raise-calculator) can run this instantly if you'd rather skip the manual math, but it's worth knowing the formula itself so you can verify the result or calculate it by hand when needed.
 
-Calculation: (($52,000 − $50,000) ÷ $50,000) × 100
-Result: 4%
-```
+## How to calculate your increase across multiple years
 
-This same formula works regardless of your salary level or the size of the increase, which is why it's the standard way to compare raises across very different starting salaries.
+A single-year calculation is straightforward, but comparing raises across several years takes an extra step, since each year's raise applies to the previous year's new, higher salary rather than your original starting salary.
 
-## Annual raise examples
+**Example:** A salary of $55,000 receives a 3% raise in year one, then a 4% raise in year two.
 
-Here's how the formula plays out across a range of salaries and raise percentages:
+- **Year one:** $55,000 × 1.03 = $56,650.
+- **Year two:** $56,650 × 1.04 = $58,916.
 
-| Current Salary | Raise % | Raise Amount | New Salary |
-|---|---|---|---|
-| $40,000 | 3% | $1,200 | $41,200 |
-| $50,000 | 4% | $2,000 | $52,000 |
-| $60,000 | 5% | $3,000 | $63,000 |
-| $75,000 | 6% | $4,500 | $79,500 |
-| $100,000 | 10% | $10,000 | $110,000 |
+$$\$55{,}000 \times 1.03 \times 1.04 = \$58{,}916$$
 
-Notice that both the percentage and the dollar amount vary across these examples. A 10% raise on $100,000 adds far more in absolute dollars than a 3% raise on $40,000, even though both are legitimate annual increases within their own context.
+Notice that simply adding 3% + 4% = 7% and applying it to the original $55,000 would give a different, slightly lower result ($58,850) than correctly compounding each year on top of the previous year's salary. Over just two years the gap is small, but it widens the more years you add, which is why compounding matters for any multi-year calculation.
 
-## Factors that affect annual salary increases
+## Compounding over a longer period
 
-There's no single number that applies to every employee or every company. Several factors typically drive the variation.
+Compounding has a bigger effect the further out you calculate. Take a $50,000 starting salary with a steady 3.5% raise every year for ten years:
 
-**Employee performance.** High-performing employees may receive larger raises than those who simply met expectations, reflecting their outsized contribution over the review period.
+$$\$50{,}000 \times (1.035)^{10} \approx \$70{,}530$$
 
-**Industry trends.** Salary growth differs across industries. Fast-growing, competitive fields often see larger typical increases than industries with tighter margins or slower growth.
+That's roughly $20,530 more than the starting salary, and noticeably more than a simple non-compounding estimate of 10 years × 3.5% × $50,000 = $17,500 added flat. Each year's raise is calculated on an increasingly larger base, which is exactly why consistent raises build real momentum over a career, even when each individual year's percentage looks modest.
 
-**Labor market demand.** Skills that are difficult to replace may command higher increases, as employers work to retain employees whose expertise would be hard to find elsewhere.
+## How to calculate your personal average raise rate across several years
 
-**Company financial performance.** Organizations may adjust compensation budgets based on business performance, meaning the same role at the same company might see a larger raise in a strong year and a smaller one during a tighter year.
+If you want a single number that summarizes several years of actual raises, rather than calculating year by year, use the compound annual growth rate formula:
 
-**Economic conditions.** Compensation decisions may be influenced by broader economic conditions, including inflation and the overall health of the labor market, which can shift typical raise percentages up or down from year to year across the board.
+$$\text{Average Annual Rate} = \left( \frac{\text{Ending Salary}}{\text{Starting Salary}} \right)^{\frac{1}{\text{Number of Years}}} - 1$$
 
-## Annual raise vs promotion raise
+**Example:** A salary grew from $50,000 to $61,000 over 5 years.
 
-These two types of increases serve different purposes, even though both result in higher pay.
+$$\left( \frac{\$61{,}000}{\$50{,}000} \right)^{\frac{1}{5}} - 1 \approx 0.0406, \text{ or about } 4.06\%$$
 
-| Annual Raise | Promotion Raise |
-|---|---|
-| Routine compensation adjustment | Higher-level role |
-| Usually part of annual review | Associated with promotion |
-| May reward performance | Reflects increased responsibility |
+This gives you the single steady annual percentage that would have produced the same overall result, smoothing out any year-to-year variation, which is useful when comparing your own raise history against a typical annual benchmark.
 
-Promotion raises are generally tied to role changes, while annual raises are part of ongoing compensation management within the same role. A promotion raise is typically larger because it compensates for a meaningfully different job, not just incremental performance in an existing one. For a full breakdown of how promotion raises are calculated and what typical ranges look like, see our guide on the [average raise percentage for a promotion](https://odojema.com/blog/average-raise-percentage-for-a-promotion).
+## Common mistakes when calculating a salary increase
 
-## How annual raises affect long-term earnings
+A few errors show up often enough to watch for specifically:
 
-Annual raises can compound over time, which means even modest, routine increases add up to meaningful growth across a career.
+- **Using the wrong base salary.** The formula divides by the old (starting) salary, not the new one. Dividing by the new salary instead produces a noticeably smaller, incorrect percentage.
+- **Simply adding percentages across multiple years instead of compounding.** As shown above, adding raise percentages across years understates the true total increase, since it ignores that each raise builds on the previous year's already-higher salary.
+- **Including bonuses or one-time payments in the base-salary calculation.** A signing bonus or a one-time spot award isn't part of your ongoing base salary and shouldn't be averaged into a base-salary increase percentage.
+- **Rounding too early in a multi-step calculation.** Rounding the result of each individual step before continuing to the next can introduce small errors that compound into a more noticeably wrong final number over several years.
 
-```
-Year 1:            $50,000
-After 4% Raise:    $52,000
-Another 4% Raise:  $54,080
-Third 4% Raise:    $56,243
-```
+## Frequently Asked Questions
 
-Over several years, even modest raises can significantly increase earnings, since each new raise is calculated from the previous year's higher salary rather than the original starting point. This compounding effect is part of why consistent, if unremarkable, annual raises still matter over the span of a career, even when no single year's increase feels dramatic.
+### What is the formula for calculating an annual salary increase?
 
-## Is a 4% annual raise good?
+Subtract your old salary from your new salary, divide the result by your old salary, then multiply by 100. The old salary is always the denominator.
 
-A 4% raise is often viewed as a solid annual increase because it provides measurable salary growth and can exceed basic yearly adjustments in many organizations, particularly when typical raises cluster closer to 2% or 3%. For a full breakdown of what a 4% raise is worth at different salary levels and how it compares with other common percentages, see our guide on [whether a 4% raise is good](https://odojema.com/blog/is-a-4-percent-raise-good).
+### How do I calculate my average raise over several years?
 
-## Is a 10% annual raise significant?
+Use the compound annual growth rate formula: divide your ending salary by your starting salary, raise the result to the power of 1 divided by the number of years, then subtract 1 and convert to a percentage.
 
-A 10% raise represents a substantial increase in earnings and may be associated with exceptional performance, changing responsibilities, or movement into a higher-paying role. It's well above what a routine annual review typically delivers, and it often signals something more specific happening than a standard yearly adjustment. For a closer look at when a 10% raise is common and what it usually reflects, see our guide on [whether a 10% raise is good](https://odojema.com/blog/is-a-10-percent-raise-good).
+### Does compounding make a big difference over time?
 
-## How to calculate your annual raise
+Yes, especially over longer periods. Each raise applies to an already-higher salary from the previous year, so the dollar impact grows faster than simply adding up each year's percentage would suggest.
 
-The process involves four straightforward steps.
+### Should bonuses be included when calculating my raise percentage?
 
-**Step 1:** Determine your old salary, the amount you were earning before the increase.
+No. A base-salary increase calculation should only include changes to your base salary. Bonuses and other variable pay are worth tracking separately as part of your total compensation.
 
-**Step 2:** Determine your new salary, the amount you'll be earning after the increase takes effect.
+### Is there a quick way to check this calculation without doing the math by hand?
 
-**Step 3:** Apply the percentage increase formula: subtract the old salary from the new salary, divide by the old salary, and multiply by 100.
+Yes, a [raise calculator](https://odojema.com/raise-calculator) can calculate the percentage, the new salary, or the dollar increase automatically. For the broader method behind percentage calculations in general, see how to [calculate percentage increase](https://odojema.com/blog/how-to-calculate-percentage-increase).
 
-**Step 4:** Compare your raise with previous years to see whether your salary growth is accelerating, staying consistent, or slowing down over time.
-
-That last step is easy to skip but worth doing. A single year's raise tells you less on its own than a pattern across several years, which can reveal whether your compensation is keeping pace with your growing experience and responsibilities.
-
-## How annual raises compare across a career
-
-A single year's raise rarely tells the full story. It's often more useful to think about annual increases as part of a longer trajectory, since the cumulative effect over a decade or more can be substantial, even when individual years look unremarkable.
-
-Consider a $50,000 starting salary with a consistent 3.5% annual raise over ten years:
-
-```
-Year 1:  $50,000
-Year 5:  about $59,387
-Year 10: about $70,531
-```
-
-Over a full decade, a modest and entirely typical 3.5% annual raise grows the original salary by more than $20,000, without a single promotion or job change factored in. This is a useful reminder that annual raises, even when they feel small in any given year, are a meaningful part of long-term earnings growth when viewed over a longer timeframe rather than evaluated one year at a time.
-
-Of course, real career paths rarely follow a single, consistent percentage. Some years bring a strong raise tied to performance, others a smaller cost-of-living adjustment, and occasional years may include a promotion or a job change that resets the baseline entirely. Tracking your own raise history over several years, rather than focusing only on the most recent one, gives a more accurate picture of whether your compensation is genuinely growing at a healthy pace.
-
-## What counts as a strong annual raise today
-
-Typical annual raise percentages shift over time, influenced by inflation, labor market conditions, and the broader economy. What counted as a strong raise in a low-inflation year can look modest during a period of rapid price increases, and vice versa.
-
-A few general guideposts, though actual figures should always be checked against current data for your specific industry and location:
-
-- **Below 2%:** Often viewed as a minimal adjustment, sometimes barely keeping pace with inflation in a typical year.
-- **2% to 3%:** Commonly considered a routine, standard annual increase in many industries.
-- **4% to 5%:** Generally viewed as a solid raise, often reflecting above-average performance or a stronger-than-typical budget year.
-- **6% and above:** Less common for a routine annual review, and often associated with strong individual performance, a market adjustment, or retention efforts.
-
-Because these benchmarks shift with economic conditions, it's worth checking current salary survey data for your industry rather than relying on fixed percentages that may be several years out of date. A raise that was considered strong five years ago may only be average today, or vice versa, depending on how inflation and labor market conditions have moved in the meantime.
-
-## Use our percentage increase calculator
-
-If you want to check your exact raise percentage without working through the formula by hand, our [percentage increase calculator](https://odojema.com/percentage-increase-calculator) makes it instant. Use it to determine:
-
-- Annual raise percentage
-- Salary growth
-- Compensation changes
-- Percentage increases
-
-Simply enter your old and new salary, and the calculator handles the rest.
-
-## Use our raise calculator
-
-For a fuller picture of what any raise means for your pay, our [raise calculator](https://odojema.com/raise-calculator) lets you calculate:
-
-- Raise amount
-- New salary
-- Monthly increase
-- Annual increase
-
-This is useful for projecting what a given percentage raise would mean in real dollars before a review, or for comparing an offer against your current compensation.
-
-## Questions employees often ask about annual raises
-
-A few questions tend to come up repeatedly once a raise is on the table.
-
-**Is my raise competitive?** This depends on how your increase compares with typical raises in your industry and role. Researching current salary data for comparable positions is the most reliable way to answer this.
-
-**Does my raise keep up with market pay?** Even a reasonable-sounding percentage increase might not close a gap if your pay was already below market rate. It's worth checking your new salary against current postings for similar roles, not just against your own previous pay.
-
-**How much did my salary grow?** Looking at your raise in both percentage and dollar terms, and tracking it across multiple years rather than just the most recent one, gives a clearer picture of your overall trajectory.
-
-**Should I negotiate a raise?** If your research shows a gap between your pay and the market, or if your responsibilities have grown significantly since your last review, it's generally reasonable to raise the conversation, ideally with specific numbers to support your case.
-
-**How does my raise compare with previous years?** A raise that's smaller than what you received in prior years isn't necessarily a bad sign on its own, since company budgets and economic conditions shift, but a consistent downward trend over several years may be worth discussing directly with your employer.
-
-## Frequently asked questions
-
-**What is an annual salary increase?**
-An annual salary increase is a raise provided by an employer during a yearly compensation review, intended to reward performance, adjust for cost of living, or bring pay in line with the market.
-
-**How do you calculate an annual raise percentage?**
-Subtract the old salary from the new salary, divide by the old salary, and multiply by 100. For example, a raise from $50,000 to $52,000 works out to a 4% increase.
-
-**Is an annual raise the same as a promotion raise?**
-No. Annual raises are routine compensation adjustments within the same role, while promotion raises are associated with moving into a higher-level position.
-
-**Why do annual salary increases vary?**
-They vary based on performance, industry conditions, labor market demand, company policies, and economic factors, which is why there's no single standard percentage that applies to every employee.
-
-**How can I calculate my annual salary increase?**
-You can compare your old salary and new salary using a [percentage increase calculator](https://odojema.com/percentage-increase-calculator) to get the exact percentage instantly.
-
-## Related articles
-
-- [Average raise percentage for a promotion](https://odojema.com/blog/average-raise-percentage-for-a-promotion)
-- [Is a 4% raise good?](https://odojema.com/blog/is-a-4-percent-raise-good)
-- [Is a 10% raise good?](https://odojema.com/blog/is-a-10-percent-raise-good)
-- [How much is a 10% raise?](https://odojema.com/blog/how-much-is-a-10-percent-raise)
-- [What is an average percentage raise?](https://odojema.com/blog/average-percentage-raise)
+Want to see how your calculated percentage compares to common benchmarks? See [what percent raise is good](https://odojema.com/blog/what-percent-raise-is-good) once you know your exact number.

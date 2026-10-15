@@ -1,13 +1,7 @@
+
 import Link from "next/link";
 import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 import { notFound } from "next/navigation";
-import AdsterraBanner from "@/components/AdsterraBanner";
-import AdsterraNative from "@/components/AdsterraNative";
-import AdsterraSidebar from "@/components/AdsterraSidebar";
-
-const SIDEBAR_KEY = "e1263ea9bc9eacc05346edb4620c983e";
-const SIDEBAR_SRC =
-  "https://bauval.org/22/e1263ea9bc9eacc05346edb4620c983e";
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs();
@@ -36,11 +30,11 @@ export async function generateMetadata({
   }
 }
 
-// Hinahati ang HTML pagkatapos ng mga top-level block (hindi na nasisira ang nested tags)
+// Hinahati ang HTML content sa mga block.
 function splitIntoBlocks(html: string): string[] {
   const blocks = html
-    .split(/(?<=<\/(?:p|ul|ol|blockquote|pre|table|h[1-6])>)\s*\n/i)
-    .filter((b) => b.trim().length > 0);
+    .split(/(?<=<\/(?:p|ul|ol|blockquote|pre|table|h[1-6])>)\s*/i)
+    .filter((block) => block.trim().length > 0);
 
   return blocks.length > 0 ? blocks : [html];
 }
@@ -71,37 +65,33 @@ export default async function BlogPost({
 
   return (
     <main className="max-w-3xl mx-auto px-6 py-20">
-      <AdsterraSidebar
-        side="left"
-        adKey={SIDEBAR_KEY}
-        scriptSrc={SIDEBAR_SRC}
-      />
-      <AdsterraSidebar
-        side="right"
-        adKey={SIDEBAR_KEY}
-        scriptSrc={SIDEBAR_SRC}
-      />
-
-      <Link href="/blog" className="text-blue-600 hover:underline">
+      <Link
+        href="/blog"
+        className="text-blue-600 hover:underline"
+      >
         ← Back to Blog
       </Link>
 
-      <h1 className="text-4xl font-bold mt-6">{post.title}</h1>
+      <h1 className="text-4xl font-bold mt-6">
+        {post.title}
+      </h1>
 
-      <p className="mt-2 text-sm text-gray-500">{post.date}</p>
+      <p className="mt-2 text-sm text-gray-500">
+        {post.date}
+      </p>
 
       <div className="mt-8 prose max-w-none">
-        <div dangerouslySetInnerHTML={{ __html: firstPart }} />
+        <div
+          dangerouslySetInnerHTML={{ __html: firstPart }}
+        />
 
-        {remaining.length >= 2 && (
-          <AdsterraBanner placementId="article-ad-1" />
-        )}
+        <div
+          dangerouslySetInnerHTML={{ __html: middlePart }}
+        />
 
-        <div dangerouslySetInnerHTML={{ __html: middlePart }} />
-
-        {remaining.length >= 4 && <AdsterraNative />}
-
-        <div dangerouslySetInnerHTML={{ __html: lastPart }} />
+        <div
+          dangerouslySetInnerHTML={{ __html: lastPart }}
+        />
       </div>
     </main>
   );
