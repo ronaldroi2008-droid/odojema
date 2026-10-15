@@ -1,261 +1,188 @@
 ---
-title: "How Much Should a Promotion Raise Be? Average Promotion Raise Explained"
+title: "How Much Should a Promotion Raise Be? Typical Percentages"
 date: "2026-10-03"
-excerpt: "Learn typical promotion raise percentages, industry benchmarks, and how to evaluate whether a promotion salary increase is fair."
+excerpt: "A typical promotion raise is about 8% to 10%, and 10% to 20% for a bigger step up. See what is fair, what to ask for, and what to do if the raise is small."
 ---
 
-A promotion raise often falls between 8% and 15% of your current salary, although the exact amount varies by industry, company, job level, and responsibilities. Smaller promotions may come with raises of 5% to 10%, while major promotions involving leadership responsibilities can exceed 15%.
+*Last updated: October 15, 2026.*
 
-This guide explains what an average promotion raise looks like, what to expect at different career levels, and what a promotion raise is worth in real dollars. It also covers the warning signs of an offer that is too low, how promotion raises compare to annual raises, and how to calculate your own increase.
+A typical promotion raise in the U.S. is about **8% to 10%** for a one-level promotion. For a bigger step up, such as moving into management or jumping two levels, **10% to 20%** is common. A raise of less than about 5% is usually a sign that the promotion is mostly a new title with little change in pay.
 
-Here is a quick reference for how most people interpret a promotion raise:
+The right number for your promotion depends on where your pay sits now, what the new role is worth on the market, and how much your responsibilities are changing. This guide covers the averages, what counts as fair, how to check a raise offer, and what to do when the number is too low. You can test any offer with our [raise calculator](https://odojema.com/raise-calculator).
 
-| Promotion Raise % | Common Interpretation |
+**Quick answers**
+
+- **Average raise for a one-level promotion:** about 8.5% to 8.7% in recent U.S. employer surveys
+- **Good promotion raise:** 10% or more
+- **Bigger step up (management, two levels):** 10% to 20%
+- **Weak promotion raise:** under 5%
+- **Is 10% good for a promotion?** Yes, it is above average
+
+## What is the average raise for a promotion?
+
+The best U.S. data comes from Mercer's compensation planning surveys of employers:
+
+| Measure | Typical figure |
 |---|---|
-| 3%–5% | Small promotion raise |
-| 5%–8% | Modest promotion raise |
-| 8%–15% | Typical promotion raise |
-| 15%–20% | Strong promotion raise |
-| 20%+ | Major promotion increase |
+| Average pay increase for a one-level promotion (survey published April 2026) | about 8.5% |
+| Average promotion raise employers planned for 2026 (October 2025 survey) | about 8.7% |
+| Average promotion raise a year earlier | about 9.3% |
+| Share of employees employers planned to promote in 2026 | about 9% |
 
-These ranges are benchmarks, not rules. A 7% raise can feel generous at one company and disappointing at another, depending on what the new role asks of you and how your pay compares to the market.
+Two things stand out. First, **promotion raises have been drifting down.** Mercer notes that around 10% used to be the standard for a one-level promotion, and the average is now a bit below that. Second, **promotions are not frequent.** Only about 1 in 11 employees is promoted in a given year at the typical employer.
 
-## What is the average promotion raise?
+For comparison, the typical yearly merit raise is a little over 3% (see [what percent raise is good](https://odojema.com/blog/what-percent-raise-is-good)). A promotion raise is therefore roughly two and a half to three times a normal raise.
 
-Promotion raises are usually larger than annual raises because a promotion changes the job itself, not just the pay for doing the same job another year. When an employer promotes someone, it is pricing a new role, and that role typically comes with:
+### Why some surveys show much higher numbers
 
-- **More responsibility.** A broader scope, bigger projects, or ownership of decisions that used to belong to someone else.
-- **Higher expectations.** Results, quality, and judgment are measured against a higher standard than in your previous role.
-- **Leadership duties.** Mentoring, managing, or coordinating other people, which adds work that has nothing to do with your own output.
-- **Increased accountability.** When something goes wrong, more of the responsibility lands on you.
+You may see sources that report average promotion raises of 15% to 25%. Those usually define a promotion as a pay increase of at least 15%, which leaves out smaller title changes and counts only the bigger jumps. A European survey of mostly technology companies by Ravio, for example, reported an average promotion increase of about 22%, but it counted only raises of 15% or more as promotions. That is a different measure from the Mercer figure above, which covers a typical one-level promotion at U.S. employers.
 
-Because of this, the typical ranges look quite different from a routine review:
+When you compare your offer with a statistic, check how the source defines a promotion. A raise of 8% can be normal under one definition and below average under another.
 
-| Raise Type | Typical Range |
-|---|---|
-| Annual Raise | 2%–4% |
-| Strong Annual Raise | 4%–6% |
-| Promotion Raise | 8%–15% |
-| Major Promotion | 15%–20%+ |
+## Promotion raise by type of promotion
 
-Notice the gap between a strong annual raise and a typical promotion raise. A promotion that comes with only a 3% increase is being paid like a routine review, which is worth questioning if your duties have genuinely changed.
+The size of the raise depends heavily on how big the step is:
 
-These figures are general benchmarks rather than guarantees. Employers usually fit promotions into internal salary ranges, so the final number reflects company policy as much as your individual performance. For a closer look at the numbers, see the [average raise percentage for a promotion](https://odojema.com/blog/average-raise-percentage-for-a-promotion).
+| Type of promotion | Typical raise | Notes |
+|---|---|---|
+| Title change, same duties | 0% to 5% | Often a title upgrade with a small adjustment |
+| One-level promotion | 8% to 10% | The most common case |
+| Promotion into people management | 10% to 15% | Larger scope and accountability |
+| Two-level jump | 15% to 20% | Often combined with a pay band change |
+| Move to a different function | Varies | Pay is set by the new role's market rate |
 
-## How much raise should you get for a promotion?
+If your promotion is mostly a new title, a small raise is not unusual, but it is worth asking whether the title will lead to a real adjustment at your next review.
 
-The right percentage depends on how big the step up really is. A move from junior to associate is a very different jump from a move into management, and the typical raises reflect that.
+## Is a 10% raise good for a promotion?
 
-### Entry-level promotion
+Yes. A 10% raise is above the current average for a one-level promotion (about 8.5%), and it fits the older standard of about 10%. For a bigger step up, such as moving into management, a 10% raise is on the lower side of normal.
 
-**Raise is often: 5%–10%**
+Here is what common promotion raises look like in dollars:
 
-Entry-level promotions usually move someone from a starter role into a more independent one. Salaries at this level are lower to begin with, so even a 10% raise adds a modest dollar amount. On a $40,000 salary, 10% is $4,000. The percentage matters, but at lower pay levels it is worth looking at the dollar impact too.
-
-### Mid-level promotion
-
-**Raise is often: 8%–15%**
-
-This is the range most people have in mind when they think of a typical promotion raise. Mid-level promotions tend to bring larger projects, more independence, and sometimes the first informal leadership duties, which is why the raise is noticeably bigger than an annual increase.
-
-### Management promotion
-
-**Raise is often: 10%–20%**
-
-Moving into management adds responsibility for other people's work, schedules, and performance, on top of your own output. That extra load is why management promotions tend to sit toward the higher end of the range. If you are taking on a team and the raise is at the bottom of the typical range or below it, that mismatch is worth raising.
-
-### Executive promotion
-
-**Raise can exceed: 20%**
-
-At the executive level, increases can go beyond 20%, but base salary is only part of the picture. Compensation at this level often includes bonuses, equity, and other incentives, so the percentage change in base pay may tell you less than the change in total compensation.
-
-## What does a promotion raise look like in dollars?
-
-Percentages are easier to judge once you see them as money. Here are three examples at different salary levels.
-
-**Example 1**
-
-```
-Current Salary:   $50,000
-10% Raise:        $5,000
-New Salary:       $55,000
-Monthly Increase: about $417
-```
-
-**Example 2**
-
-```
-Current Salary:   $70,000
-15% Raise:        $10,500
-New Salary:       $80,500
-Monthly Increase: $875
-```
-
-**Example 3**
-
-```
-Current Salary:   $90,000
-20% Raise:        $18,000
-New Salary:       $108,000
-Monthly Increase: $1,500
-```
-
-These are gross figures. Taxes and benefit deductions will reduce the amount that reaches your paycheck, so treat the monthly numbers as before-tax estimates.
-
-## What factors affect a promotion raise?
-
-Two people with the same title change can receive very different raises. These are the factors that usually explain the difference:
-
-- **Industry.** Technology and other specialized fields often offer larger promotion raises, because the skills are in demand and the cost of losing a good employee is high.
-- **Job level.** Higher-level promotions typically justify larger increases. A step into senior or leadership work carries more responsibility than a step between two similar roles.
-- **Company budget.** Organizations may have compensation policies or budget limits that cap how much a single promotion can increase pay, regardless of how well you performed.
-- **Labor market.** High-demand skills often command larger salary increases. If similar employers are competing for people with your experience, your employer has more reason to pay well.
-- **Internal pay structure.** Companies often balance promotions against salary bands. If your current pay is already near the top of your old band, the new band may allow a larger jump. If it is already near the middle of the new band, the raise may be smaller.
-
-The last factor is the one people overlook most. A raise can look small in percentage terms simply because your pay was already high for your old role. Asking where the new salary sits within the band for the new role gives you useful context.
-
-## Is a 10% promotion raise good?
-
-A 10% raise is commonly viewed as a solid promotion increase because it falls within the range many organizations use for internal promotions. It is also well above a routine annual raise. On a $50,000 salary, 10% adds $5,000, while a typical 3% annual raise would add $1,500.
-
-That said, "solid" does not automatically mean "fair" for your situation. If the promotion added a team to manage, or if your pay was already below market before the promotion, 10% may still leave you underpaid for the new role. If the role is a modest step up and your pay was in line with the market, 10% is a good outcome. For a deeper look, read [is a 10% raise good for a promotion](https://odojema.com/blog/is-a-10-percent-raise-good-for-a-promotion).
-
-## Is a 15% promotion raise good?
-
-A 15% raise is often considered a strong promotion increase and may indicate substantial additional responsibilities. It sits at the top of the typical promotion range, so most people would be pleased to receive it.
-
-Two things are worth checking before you celebrate. First, ask what changed in the role. A raise this size usually reflects a real increase in scope, and it helps to know what is now expected of you. Second, consider whether the raise is partly correcting pay that had fallen behind the market. If so, the new salary may simply bring you to a fair level rather than ahead of it. On a $70,000 salary, a 15% raise adds $10,500 for a new salary of $80,500.
-
-## When is a promotion raise too low?
-
-Sometimes the number on the offer does not match the job being described. These are the warning signs worth watching for:
-
-- **Significant new responsibilities with only a minimal raise.** If your workload and scope have grown a lot but the raise is closer to an annual increase, the pay has not caught up with the role.
-- **Managing employees without appropriate compensation.** Leading a team is real additional work. A management title with a raise in the 2% to 4% range deserves a conversation.
-- **Salary that remains below market rates despite the promotion.** If comparable roles at other companies still pay noticeably more, the promotion has not closed the gap.
-- **A promotion without a meaningful pay increase.** A new title with little or no raise may be title inflation, where the label changes but the compensation does not.
-
-Here is what the gap can look like in dollars. Suppose you are promoted to team lead on a $60,000 salary:
-
-```
-3% raise:   $1,800  →  New Salary: $61,800
-10% raise:  $6,000  →  New Salary: $66,000
-Difference: $4,200 per year
-```
-
-A $4,200 annual gap is significant, and it compounds over time because future raises are calculated on a lower base. If you think your offer is too low, gather specifics before you respond: a list of the new duties, the pay for comparable roles, and the percentage you are hoping for. A calm, specific request is far more effective than a general sense that the offer feels light.
-
-## Promotion raise vs annual raise
-
-Annual raises and promotion raises serve different purposes, which is why the numbers differ so much.
-
-| Annual Raise | Promotion Raise |
-|---|---|
-| Rewards performance | Rewards advancement |
-| Usually 2%–5% | Often 8%–15% |
-| Same role | New role |
-| Smaller compensation change | Larger compensation change |
-
-An annual raise recognizes how well you did the same job. A promotion raise recognizes that you are now doing a bigger job. Because the employer is paying for a different level of responsibility, the increase is naturally larger.
-
-This also means the two are not interchangeable. If you are promoted in the same cycle as your annual review, check whether the promotion raise includes your annual increase or sits on top of it. Some employers combine them into one number, which can make a promotion raise look larger than it really is.
-
-## Should you negotiate a promotion raise?
-
-Negotiation may be appropriate when:
-
-- Responsibilities expand significantly
-- Market pay is higher than the offer
-- Comparable roles pay more
-- The promotion includes management duties
-
-If one or more of these apply, asking is reasonable. Employers expect some promotion offers to be discussed, and a polite, well-prepared request rarely damages a relationship.
-
-A few practical points make the conversation go better:
-
-- **Negotiate before you accept.** It is much easier to discuss the number while the offer is still open than after you have agreed.
-- **Anchor on the role, not on your needs.** Point to the new scope, the duties you are taking on, and what comparable roles pay, rather than personal expenses.
-- **Come with a specific number.** "I was hoping for 12%" gives the other person something to respond to. "I was hoping for more" does not.
-- **Consider the whole package.** If the base salary cannot move, ask about a bonus, a shorter path to your next review, additional vacation, or professional development funding.
-
-Not every negotiation ends in a higher number, and that is fine. Even when the answer is no, asking clarifies how the company sees your role and what it would take to earn a larger raise next time.
-
-## How to calculate a promotion raise
-
-The calculation is simple. Convert the percentage to a decimal and multiply it by your current salary:
-
-```
-Raise Amount = Current Salary × Promotion Raise %
-```
-
-Here is an example:
-
-```
-Salary:           $60,000
-Promotion Raise:  12%
-Raise Amount:     $60,000 × 0.12 = $7,200
-New Salary:       $60,000 + $7,200 = $67,200
-Monthly Increase: $7,200 ÷ 12 = $600
-```
-
-You can also work backward. If you have been offered a new salary and want to know the percentage, subtract your current salary from the new one, divide by your current salary, and multiply by 100. For a full walkthrough with more examples, see [how to calculate the percentage of a salary increase](https://odojema.com/blog/how-to-calculate-percentage-of-salary-increase).
-
-## Use our promotion salary calculator
-
-If you would rather skip the math, our Promotion Salary Calculator does it instantly. Enter your current salary and the promotion raise percentage, and it estimates:
-
-- Your raise amount
-- Your new salary
-- Your monthly increase
-- Your annual increase
-
-It is especially useful for comparing offers. Try 8%, 10%, and 15% on your own salary to see how much each percentage is worth in dollars before you decide what to ask for.
-
-## Promotion raises and long-term earnings
-
-A promotion raise matters more than its first-year dollar amount, because it raises the base that every future raise is built on. Consider this example:
-
-```
-Starting Salary:         $50,000
-10% Promotion Raise:     $55,000
-Future 5% Raise:         $57,750
-Future 5% Raise:         $60,638
-```
-
-Each later raise is a percentage of a larger number, so the same 5% adds more dollars after a promotion than it would have before. Here is how the gap grows if you receive a 3% annual raise for three years, with and without a 10% promotion at the start:
-
-| Year | No Promotion | With 10% Promotion | Gap |
+| Promotion raise | $50,000 salary | $70,000 salary | $90,000 salary |
 |---|---|---|---|
-| Year 1 | $51,500 | $56,650 | $5,150 |
-| Year 2 | $53,045 | $58,350 | $5,305 |
-| Year 3 | $54,636 | $60,100 | $5,464 |
+| 5% | +$2,500 ($52,500) | +$3,500 ($73,500) | +$4,500 ($94,500) |
+| 8.5% (average) | +$4,250 ($54,250) | +$5,950 ($75,950) | +$7,650 ($97,650) |
+| 10% | +$5,000 ($55,000) | +$7,000 ($77,000) | +$9,000 ($99,000) |
+| 15% | +$7,500 ($57,500) | +$10,500 ($80,500) | +$13,500 ($103,500) |
+| 20% | +$10,000 ($60,000) | +$14,000 ($84,000) | +$18,000 ($108,000) |
 
-The raise you negotiate at the moment of promotion has a lasting effect, and a gap of a few percentage points today can add up to thousands of dollars over several years. This is also why it is worth speaking up if an offer is too low: a small shortfall now continues for as long as you stay at the company. To see how repeated raises add up over time, try the [raise compounding calculator](https://odojema.com/raise-compounding-calculator).
+Use the [percentage increase calculator](https://odojema.com/percentage-increase-calculator) to find the percentage in your own offer. The formula is:
 
-## Related articles
+```
+Raise % = (New salary − Old salary) ÷ Old salary × 100
+```
 
-- [Average raise percentage for a promotion](https://odojema.com/blog/average-raise-percentage-for-a-promotion)
-- [Is a 10% raise good for a promotion?](https://odojema.com/blog/is-a-10-percent-raise-good-for-a-promotion)
-- [What is an average percentage raise?](https://odojema.com/blog/average-percentage-raise)
-- [What is considered a large raise?](https://odojema.com/blog/what-is-considered-a-large-raise)
+For more on how to read the number, see [is a 10% raise good](https://odojema.com/blog/is-a-10-percent-raise-good) and [how to calculate a salary increase](https://odojema.com/blog/how-to-calculate-a-salary-increase).
+
+## What is a fair promotion raise?
+
+A fair promotion raise is based on the new role, not just a percentage of your old pay. Four things decide it:
+
+1. **The market rate for the new job.** What do employers in your area pay for the new title? If your new salary is still below that range, the raise is not fully fair, even if the percentage looks good.
+2. **Where your pay sits in the pay range.** Many companies set a minimum, midpoint, and maximum for each level. If you were already near the top of your old range, a promotion raise can look small because it is capped by the new range's starting point. If you were near the bottom, you may be due a bigger jump to catch up.
+3. **How much your responsibilities change.** Managing people, owning a budget, or taking on a larger scope all justify more than a title change on its own.
+4. **What peers in the same role earn.** Companies try to keep pay fair across people doing similar work. If a colleague at the new level earns much more than your new salary, that is useful evidence to bring up.
+
+A simple test: **a promotion without a meaningful raise is a title change, not a career step.** If the work grows and the pay barely moves, you are being asked to do more for roughly the same money.
+
+## How much of the promotion raise do you keep after tax?
+
+A promotion raise is taxed like the rest of your income, and it often pushes more of your pay into a higher bracket. For a single filer earning $70,000 who gets an 8.5% raise ($5,950), the extra income is taxed at 22% federal (that bracket starts at $50,400 of taxable income after the $16,100 standard deduction in 2026) plus 7.65% for Social Security and Medicare. That is about 29.65% before state income tax.
+
+| Raise on a $70,000 salary | Gross increase | Approximate take-home increase | Per month | Per biweekly paycheck |
+|---|---|---|---|---|
+| 8.5% | $5,950 | about $4,186 | about $349 | about $161 |
+| 10% | $7,000 | about $4,925 | about $410 | about $189 |
+
+State and local taxes would lower these numbers further. Your own figures will differ based on filing status, deductions, and benefit contributions, so treat this as a rough guide. The point is that a $7,000 raise becomes roughly $410 a month in extra take-home pay, which is worth knowing before you negotiate.
+
+## Hourly workers: what a promotion raise looks like
+
+If you are paid by the hour, the same percentages apply. Here is what a promotion looks like at three common wages, assuming 2,080 hours a year:
+
+| Current wage | 8.5% raise | 10% raise | 15% raise |
+|---|---|---|---|
+| $18.00 | $19.53 (+$3,182/yr) | $19.80 (+$3,744/yr) | $20.70 (+$5,616/yr) |
+| $22.00 | $23.87 (+$3,890/yr) | $24.20 (+$4,576/yr) | $25.30 (+$6,864/yr) |
+| $28.00 | $30.38 (+$4,950/yr) | $30.80 (+$5,824/yr) | $32.20 (+$8,736/yr) |
+
+For a lead or supervisor role that adds real responsibility, asking for the 10% to 15% range is reasonable. You can convert any hourly wage into a yearly figure with the [hourly to annual calculator](https://odojema.com/hourly-to-annual-calculator).
+
+## Why the promotion raise matters more than it looks
+
+Your promotion raise becomes the new base for every future raise. Say you earn $70,000 and a promotion raises you 10% to $77,000, compared with staying at $70,000. If you then get a 3% raise each year, the difference grows:
+
+| After | Without the promotion | With the 10% promotion | Difference per year |
+|---|---|---|---|
+| 1 year | $72,100 | $79,310 | $7,210 |
+| 3 years | $76,491 | $84,140 | $7,649 |
+| 5 years | $81,149 | $89,264 | $8,115 |
+
+The yearly gap grows even though the promotion only happened once. That is why negotiating a few extra percentage points at promotion time can be worth thousands of dollars over several years. To see your own numbers, use the [raise compounding calculator](https://odojema.com/raise-compounding-calculator).
+
+## Promotion raise vs. changing jobs
+
+Sometimes the best "promotion" comes from another employer. Surveys show that employers budget about 3% to 4% a year for raises and about 8% to 9% for a promotion. A new employer sets pay by the market rate for the role, and moves between companies often come with a larger jump than an internal promotion.
+
+That does not mean you should leave at the first small raise. Changing jobs has trade-offs: you give up your history at the company, your benefits may differ, and your next review resets. If you are weighing an offer against your current job, compare the whole package, not only the salary. Our [job offer comparison calculator](https://odojema.com/job-offer-comparison-calculator) helps you line them up. Knowing the market rate also strengthens your hand if you ask for more at your current company.
+
+## What if the promotion raise is too small?
+
+1. **Ask how the number was set.** Find out if it came from a pay range, a budget cap, or a comparison with peers. The answer shows what you can push on.
+2. **Ask for the market rate.** Bring data on what the new title pays in your area, and ask to be placed within that range.
+3. **Ask for a review date.** If the budget is the problem, ask for a written commitment to review your pay in 6 months, with a target number.
+4. **Ask for other value.** A one-time bonus, extra vacation, a development budget, remote flexibility, or a clearer path to the next level can be worth real money when salary is capped.
+5. **Get it in writing.** Make sure the new title, salary, start date, and any review dates are in your promotion letter.
+
+For wording and a step-by-step plan, read [how to negotiate a promotion raise](https://odojema.com/blog/how-to-negotiate-a-promotion-raise). If you are not sure when to raise the topic, see [when to ask for a raise](https://odojema.com/blog/when-to-ask-for-a-raise).
+
+A short script you can adapt:
+
+> "I'm excited about the new role and the added responsibility for [scope]. Based on what comparable [title] roles pay in our market, I was hoping to be at [number or range]. Can we talk about how the offer was set and what it would take to get closer?"
+
+## Common mistakes with promotion raises
+
+- **Accepting the first number without asking.** Many people never negotiate a promotion raise, even when there is room.
+- **Judging only by the percentage.** A 10% raise on a salary that was below market may still leave you below market.
+- **Ignoring the new duties.** If the role doubles your workload, a standard 8% to 9% may not be enough.
+- **Forgetting taxes.** Your take-home increase is smaller than the gross raise.
+- **Taking a title with no pay change.** Titles help your resume, but they do not pay the bills.
+- **Not putting it in writing.** Verbal promises about a future raise are easy to forget.
 
 ## Frequently asked questions
 
 **How much should a promotion raise be?**
-Many promotion raises fall between 8% and 15%, although the exact amount varies by company, industry, and job level.
+About 8% to 10% for a one-level promotion, and 10% to 20% for a bigger step up.
+
+**What is the average raise for a promotion?**
+Recent U.S. employer surveys put the average for a one-level promotion at about 8.5% to 8.7%.
 
 **Is a 10% raise good for a promotion?**
-A 10% raise is commonly considered a solid promotion increase and falls within many organizations' typical promotion range.
+Yes. It is above the current average for a one-level promotion.
 
-**Is a 15% promotion raise good?**
-A 15% raise is often viewed as a strong promotion increase, particularly when responsibilities expand significantly.
+**Is a 5% raise good for a promotion?**
+It is below average. It may be acceptable for a small title change, but it is low for a real step up in responsibility.
 
-**What is the average promotion raise percentage?**
-Promotion raises frequently range from 8% to 15%, though larger increases can occur for major role changes.
+**What is a typical raise percentage for a promotion?**
+Most one-level promotions fall between 8% and 10%.
+
+**What is a fair promotion raise?**
+One that puts you in line with the market rate for the new role, reflects the added responsibility, and keeps you fair compared with peers at the same level.
 
 **Should I negotiate a promotion raise?**
-Negotiation may be worthwhile if your responsibilities, market value, or compensation level justify a higher salary.
+Yes, if the offer is below market or below what peers earn. Come with data on market pay and your results.
 
-**Is a promotion raise bigger than an annual raise?**
-Promotion raises are usually larger because they reflect advancement to a higher-level role rather than performance within the same role.
+**What if my promotion has no raise?**
+Ask for a review in 6 months with a target, or ask for other value such as a bonus or extra time off. Get any promise in writing.
+
+**Is a promotion raise bigger than a yearly raise?**
+Yes. A typical promotion raise is about 8% to 10%, compared with about 3% for a regular yearly raise.
+
+## Sources and notes
+
+- Promotion raise averages come from Mercer's QuickPulse U.S. Compensation Planning Surveys (October 2025 and the survey published in April 2026), as reported by Mercer and WorldatWork. These are survey averages, and results vary by employer and industry.
+- The Ravio figure comes from its 2026 Compensation Trends report, where a promotion is defined as a raise of at least 15%, which is why it is much higher than the Mercer figure.
+- Tax estimates use the 2026 federal figures from IRS Rev. Proc. 2025-32 (single filer, $16,100 standard deduction, 22% bracket from $50,400 of taxable income) and the employee share of FICA at 7.65%. State and local taxes are not included.
+- Compounding examples assume a 3% yearly raise in both scenarios, with no other changes.
+- This article is for general information and is not financial or career advice.

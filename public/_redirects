@@ -14,3 +14,9 @@
 
 # Duplicate of the calculator page -> the calculator
 /blog/salary-raise-calculator /raise-calculator 301
+
+# Promotion raise group -> pillar: /blog/how-much-should-a-promotion-raise-be
+/blog/what-is-a-typical-raise-percentage-for-a-promotion /blog/how-much-should-a-promotion-raise-be 301
+/blog/what-is-a-fair-promotion-raise /blog/how-much-should-a-promotion-raise-be 301
+/blog/average-raise-percentage-for-a-promotion /blog/how-much-should-a-promotion-raise-be 301
+/blog/is-a-10-percent-raise-good-for-a-promotion /blog/how-much-should-a-promotion-raise-be 301
