@@ -4,6 +4,8 @@ date: "2026-10-07"
 excerpt: "Find out how much $15 an hour is per year, month, week, and paycheck. Use our calculator and see full-time salary examples plus estimated after-tax income."
 ---
 
+*Last updated: October 15, 2026. Tax figures use the IRS 2026 inflation adjustments (Rev. Proc. 2025-32).*
+
 If you earn $15 per hour and work 40 hours per week for 52 weeks per year, your annual salary is approximately **$31,200 before taxes**.
 
 ```
@@ -16,7 +18,7 @@ That works out to approximately:
 - **$2,600 per month**
 - **$31,200 per year**
 
-This guide breaks down $15 an hour by year, month, week, and paycheck, shows what is left after taxes, and explains whether it is a good wage. You can also use our [hourly to annual calculator](https://odojema.com/hourly-to-annual-calculator) to run the numbers for your own schedule.
+This guide breaks down $15 an hour by year, month, week, and paycheck, shows what is left after taxes in different states, and explains whether it is a good wage. You can also use our [hourly to annual calculator](https://odojema.com/hourly-to-annual-calculator) to run the numbers for your own schedule.
 
 ## Hourly to annual salary calculator
 
@@ -137,7 +139,7 @@ Your take-home pay depends on several things:
 - **Deductions:** such as retirement contributions and health insurance premiums
 - **Benefits:** employer-sponsored plans can reduce or increase your net pay
 
-Because these vary, the figures below are estimates. They use a simple scenario: a single filer with no dependents, taking the 2026 standard deduction of $16,100, with no other income and no state income tax.
+Because these vary, the figures below are estimates. They start with a simple federal scenario: a single filer with no dependents, taking the 2026 standard deduction of $16,100, with no other income.
 
 ```
 Gross annual income:               $31,200
@@ -154,24 +156,30 @@ Payroll taxes (FICA):
   Medicare (1.45%)                 $452.40
   Total FICA                       $2,386.80
 
-Estimated take-home pay:           about $27,249 per year
+Take-home before state tax:        about $27,249 per year
 ```
 
-That is about **$2,271 per month** or about **$1,048 per biweekly paycheck**, before any state tax or other deductions.
+That is about **$2,271 per month** or about **$1,048 per biweekly paycheck** before any state tax or other deductions.
 
-State and local taxes, health insurance premiums, and retirement contributions will lower this number. Here is a realistic range:
+### Take-home pay at $15 an hour by state
 
-| Gross Annual Income | Estimated Take-Home |
-|---|---|
-| $31,200 | $24,000–$28,000 |
+State income tax is the biggest difference between workers earning the same wage. Here are three examples, all using the same federal numbers as above:
 
-A worker earning $15 an hour may take home approximately **$2,000 to $2,300 per month**, depending on their tax situation. The higher end applies to workers in states without income tax and with few payroll deductions. The lower end applies to workers in states with income tax, or those who pay for health insurance through their paycheck.
+| Scenario | State income tax | Take-home per year | Per month | Per biweekly paycheck |
+|---|---|---|---|---|
+| No state income tax (for example Texas, Florida) | $0 | about $27,249 | about $2,271 | about $1,048 |
+| Pennsylvania (3.07% flat tax on wages) | about $958 | about $26,291 | about $2,191 | about $1,011 |
+| Example state with a 5% tax on wages | $1,560 | about $25,689 | about $2,141 | about $988 |
 
-For a precise number, check your state's tax rules and your employer's deduction schedule, or use the IRS withholding estimator. Tax brackets and deductions change each year, so confirm the current figures when you plan.
+The Pennsylvania row uses the state's flat 3.07% rate with no standard deduction. The 5% row is only an illustration, because many states have their own deductions, brackets, and credits. Some cities and counties add a local income tax on top. Health insurance premiums, retirement contributions, and other deductions will lower these numbers further.
+
+A realistic range for a full-time worker earning $15 an hour is **$2,000 to $2,300 per month** after taxes and common deductions. The higher end applies to workers in states without income tax and with few payroll deductions. The lower end applies to workers in states with income tax, or those who pay for health insurance through their paycheck.
+
+For a precise number, check your state's tax rules and your employer's deduction schedule, or use the [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator). Tax brackets and deductions change each year, so confirm the current figures when you plan.
 
 ## What about overtime at $15 an hour?
 
-If you are a non-exempt employee, federal law generally requires overtime pay of at least one and a half times your regular rate for hours worked beyond 40 in a week. At $15 an hour, the overtime rate is:
+If you are a non-exempt employee, federal law generally requires overtime pay of at least one and a half times your regular rate for hours worked beyond 40 in a week. The [U.S. Department of Labor overtime page](https://www.dol.gov/agencies/whd/overtime) explains who is covered. At $15 an hour, the overtime rate is:
 
 ```
 $15 × 1.5 = $22.50 per hour
@@ -185,7 +193,7 @@ Here is what a 45-hour week looks like:
 Total weekly pay          = $712.50
 ```
 
-If you worked 45 hours every week for a year, your annual pay would be $712.50 × 52 = $37,050, nearly $6,000 more than a standard full-time schedule. Overtime rules can vary by state and job type, and some salaried roles are exempt. For more detail, see our guides on [how to calculate overtime pay](https://odojema.com/blog/how-to-calculate-overtime-pay) and [overtime pay rates](https://odojema.com/blog/overtime-pay-rates-explained).
+If you worked 45 hours every week for a year, your annual pay would be $712.50 × 52 = $37,050, nearly $6,000 more than a standard full-time schedule. Overtime rules can vary by state and job type, and some salaried roles are exempt. For more detail, see our guides on [how to calculate overtime pay](https://odojema.com/blog/how-to-calculate-overtime-pay) and [overtime pay rates](https://odojema.com/blog/overtime-pay-rates-explained), or try the [overtime pay calculator](https://odojema.com/overtime-pay-calculator).
 
 ## Is $15 an hour a good salary?
 
@@ -210,7 +218,7 @@ Whether $15 an hour is "good" depends on where you live and what you need it to 
 
 ### A sample budget
 
-Using the estimated take-home of about $2,270 per month, a basic 50/30/20 budget looks like this:
+Using the estimated take-home of about $2,270 per month (no state income tax), a basic 50/30/20 budget looks like this:
 
 ```
 Needs (50%):    $1,135
@@ -234,19 +242,28 @@ Many roles pay near $15 an hour, though the exact rate depends on your location 
 
 Some of these jobs offer a path to higher pay. Supervisors, team leads, and workers who gain specialized skills or certifications often move above $15 an hour within a year or two.
 
-## $15 an hour compared to other hourly rates
+## Hourly wage to salary chart ($10 to $50 an hour)
 
-Here is how $15 an hour compares with other common wages, assuming a full-time schedule of 2,080 hours per year:
+Here is how $15 an hour compares with other common wages, assuming a full-time schedule of 2,080 hours per year, before taxes:
 
-| Hourly Rate | Weekly | Monthly | Annual Salary |
-|---|---|---|---|
-| $12 | $480 | $2,080 | $24,960 |
-| $15 | $600 | $2,600 | $31,200 |
-| $18 | $720 | $3,120 | $37,440 |
-| $20 | $800 | $3,467 | $41,600 |
-| $25 | $1,000 | $4,333 | $52,000 |
+| Hourly Rate | Weekly | Biweekly | Monthly | Annual Salary |
+|---|---|---|---|---|
+| $10 | $400 | $800 | $1,733 | $20,800 |
+| $12 | $480 | $960 | $2,080 | $24,960 |
+| $14 | $560 | $1,120 | $2,427 | $29,120 |
+| **$15** | **$600** | **$1,200** | **$2,600** | **$31,200** |
+| $16 | $640 | $1,280 | $2,773 | $33,280 |
+| $18 | $720 | $1,440 | $3,120 | $37,440 |
+| $20 | $800 | $1,600 | $3,467 | $41,600 |
+| $22 | $880 | $1,760 | $3,813 | $45,760 |
+| $25 | $1,000 | $2,000 | $4,333 | $52,000 |
+| $30 | $1,200 | $2,400 | $5,200 | $62,400 |
+| $35 | $1,400 | $2,800 | $6,067 | $72,800 |
+| $40 | $1,600 | $3,200 | $6,933 | $83,200 |
+| $45 | $1,800 | $3,600 | $7,800 | $93,600 |
+| $50 | $2,000 | $4,000 | $8,667 | $104,000 |
 
-Each extra dollar per hour adds $2,080 per year before taxes. That means a $3 increase, from $15 to $18, adds $6,240 annually.
+Each extra dollar per hour adds $2,080 per year before taxes. That means a $3 increase, from $15 to $18, adds $6,240 annually. If you are looking at the next step up, see [$20 an hour is how much a year](https://odojema.com/blog/20-an-hour-is-how-much-a-year).
 
 ## What would a raise do to $15 an hour?
 
@@ -295,10 +312,18 @@ Approximately $1,200 every two weeks before taxes, based on 80 hours per paychec
 $600 per week for a 40-hour week, before taxes.
 
 **Is $15 an hour above minimum wage?**
-In many locations, yes. The federal minimum wage is $7.25 per hour, but minimum wage laws vary by state and city, and some states and cities already set a minimum above $15 an hour. Check the current minimum wage where you work.
+In many locations, yes. The federal minimum wage is $7.25 per hour, but minimum wage laws vary by state and city, and some states and cities already set a minimum above $15 an hour. Check the current minimum wage where you work on the [U.S. Department of Labor minimum wage page](https://www.dol.gov/agencies/whd/minimum-wage).
 
 **How much is $15 an hour after taxes?**
 For a single filer working full-time, take-home pay is typically about $24,000 to $28,000 per year, or roughly $2,000 to $2,300 per month. The exact amount depends on your state, filing status, and deductions.
 
 **Can you live on $15 an hour?**
 It depends on local living costs, housing expenses, and household size. In lower-cost areas, a single person can often manage on $15 an hour. In high-cost cities, or with dependents, it is much harder without sharing expenses or earning additional income.
+
+## Sources and notes
+
+- Federal tax figures (2026 standard deduction of $16,100 for single filers, 10% bracket up to $12,400, 12% bracket above that) come from the IRS inflation adjustments for tax year 2026, Rev. Proc. 2025-32.
+- Social Security (6.2%) and Medicare (1.45%) are the employee share of FICA payroll taxes.
+- Overtime and minimum wage information comes from the U.S. Department of Labor, Wage and Hour Division.
+- Pennsylvania's personal income tax is a flat 3.07% of taxable compensation.
+- All take-home figures are estimates for a single filer with no dependents and no other deductions. They are for general information and are not tax advice.
